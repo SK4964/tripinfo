@@ -1,0 +1,117 @@
+{
+    "title": "Kanyakumari",
+    "subTitle": "Tamil Nadu, India",
+    "description": "Kanyakumari, also known as Cape Comorin, is the southernmost tip of the Indian mainland, located in the state of Tamil Nadu. It's a unique place where you can witness the confluence of three oceans: the Bay of Bengal, the Arabian Sea, and the Indian Ocean.",
+    "locationUrl": "https://maps.app.goo.gl/Uv3rLSCf2X5Ztnq57",
+    "image": "data/kanyakumari/kanyakumari.jpg",
+    "bestTimeToVisit": "The perfect time to experience Kanniyakumari is from November to March as the weather would be cool and pleasant. Summers can be really hot as the destination has a tropical climate.",
+    "updatedOn": "15/12/2024",
+    "connectivity": {
+        "bus": "Kanyakumari Bus Station, about 1 km away.",
+        "train": "Kanyakumari Train Station, about 1.3 km away.",
+        "flight": "Thiruvananthapuram International Airport, about 90 km away."
+    },
+    "attractions": {
+        "details": [
+            {
+                "title": "The Vivekananda Rock Memorial",
+                "timing":"8:00 AM - 5:00 PM",
+                "locationUrl": "",
+                "description": [
+                    "The Vivekananda Rock Memorial is a majestic structure located on a small island off the coast of Kanyakumari. It's a significant landmark dedicated to Swami Vivekananda, the great Indian philosopher and spiritual leader.",
+                    "The memorial was built in 1970 to honor Swami Vivekananda, who is said to have attained enlightenment on this rock.",
+                    "The design of the memorial is a blend of traditional Indian and contemporary architecture, featuring intricate carvings and a statue of Swami Vivekananda.",
+                    "There is a meditation hall called the Dhyan Mandapam, where visitors can meditate and find peace",
+                    "The rock offers stunning panoramic views of the confluence of the Arabian Sea, the Bay of Bengal, and the Indian Ocean."
+                ],                        
+                "images": ["data/kanyakumari/vivekananda-rock -memorial.jpg"]
+            },
+            {
+                "title": "The Bhagavathi Amman Temple",
+                "timing":"4:30 AM - 12:30 PM, 4:00 PM - 8:00 PM",
+                "locationUrl": "",
+                "description": [
+                    "The Bhagavathi Amman Temple, also known as the Kumari Amman Temple, is one of the most sacred temples in Kanyakumari, Tamil Nadu.",
+                    "The temple is situated on the southernmost tip of mainland India, offering stunning views of the ocean.",
+                    "The presiding deity is Goddess Devi Kanyakumari, also known as Bhagavathi Amman. She is considered a manifestation of the goddess Parvati.",
+                    "The temple is over 3000 years old and is one of the 108 Shakti Peethas, where parts of the goddess Sati's body are believed to have fallen.",
+                    "According to legend, the temple was built by Lord Parasurama to honor the goddess who defeated the demon Banasura."
+                ],                        
+                "images": ["data/kanyakumari/bhagavathi-amman-temple.jpg"]
+            }
+        ]
+    },
+    "restaurants": {
+        "details" : [
+            {
+                "title": "Sea View Restaurant",
+                "type": "Veg | Non Veg",
+                "phoneNumber": "+91 4652247841",
+                "address": "East Car Street, Next to Hotel Seaface, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/qAY2wmjhXbkAy6Zy6"
+            },
+            {
+                "title": "Wine & Dine Restaurant",
+                "type": "Veg | Non Veg",
+                "phoneNumber": "+91 9994121088",
+                "address": "6/61h, Beach Road, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/HcA5YucdfjJAntY28"
+            }
+        ]
+    },
+    "accommodation": {
+        "details" : [
+            {
+                "title": "Hotel Tamil Nadu",
+                "phoneNumber": "+91 9176995850",
+                "address": "Light House Main Road, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/Y3me5qFyiaMp2xkd8",
+                "description": [
+                    "Hotel Tamil Nadu is a well-known establishment managed by the Tamil Nadu Tourism Development Corporation (TTDC), located in Kanyakumari",
+                    "Amenities: The hotel offers a range of amenities including a garden, free private parking, a shared lounge, a terrace, a restaurant serving American and Indian cuisine, and free Wi-Fi.",
+                    "Rooms: The hotel provides various room types such as Double Rooms (Non AC and AC), Super Deluxe Cottages, and Family Rooms, all with beautiful sea views.",
+                    "Services: Services include 24/7 front desk, airport transfers, room service, and laundry services."
+                ],
+                "images": ["data/kanyakumari/hotel-tamil-nadu.jpg"]
+            },
+            {
+                "title": "Hotel Singaar International",
+                "phoneNumber": "+91 9443312147",
+                "address": "5/22, Main Road, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/X1MifTSBy4LXYWUt9",
+                "description": [
+                    "Hotel Singaar International is a well-known 3-star hotel located in Kanyakumari, Tamil Nadu.",
+                    "Amenities: The hotel offers a range of amenities including a swimming pool, free Wi-Fi, a restaurant, a bar, a children's play area, a conference room, and an ayurvedic center.",
+                    "Rooms: The hotel has various room types such as Deluxe, Super Deluxe, Luxury, and King Suites, all with panoramic ocean views or city views.",
+                    "Services: Services include 24/7 front desk, room service, laundry services, taxi/car rentals, and currency exchange."
+                ],
+                "images": ["data/kanyakumari/hotel-singaar-international.jpg"]
+            }
+        ]
+    },
+    "transportation": {
+        "details" : [
+            {
+                "title": "Triveni Tourers Travels",
+                "phoneNumber": "+91 9443246184",
+                "address": "2/18A3, South Car Street",
+                "locationUrl": "https://maps.app.goo.gl/94sdTU8KuV7uBuoU9",
+                "services": "Cabs | Buses | Train | Flight | Hotel"
+            },
+            {
+                "title": "Nanthu Travels",
+                "phoneNumber": "+91 8903248789",
+                "address": "2/39 Middle Street, Kanyakumar",
+                "locationUrl": "https://maps.app.goo.gl/mRURyDvfJ7JrA4U68",
+                "services": "Cabs | Buses | Train | Flight | Hotel"
+            },
+            {
+                "title": "Kumari Tours & Travels",
+                "phoneNumber": "+91 8870801019",
+                "address": "South Car Street, Kanyakumar",
+                "locationUrl": "https://maps.app.goo.gl/ZmDUE9rS9HinHasy5",
+                "services": "Cabs | Buses | Train | Flight | Hotel"
+            }
+        ]
+    }
+}
