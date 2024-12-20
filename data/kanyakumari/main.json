@@ -3,7 +3,7 @@
     "subTitle": "Tamil Nadu, India",
     "description": "Kanyakumari, also known as Cape Comorin, is the southernmost tip of the Indian mainland, located in the state of Tamil Nadu. It's a unique place where you can witness the confluence of three oceans: the Bay of Bengal, the Arabian Sea, and the Indian Ocean.",
     "locationUrl": "https://maps.app.goo.gl/Uv3rLSCf2X5Ztnq57",
-    "image": "data/kanyakumari/kanyakumari.jpg",
+    "image": "data/kanyakumari/site/main.jpg",
     "bestTimeToVisit": "The perfect time to experience Kanniyakumari is from November to March as the weather would be cool and pleasant. Summers can be really hot as the destination has a tropical climate.",
     "updatedOn": "15/12/2024",
     "connectivity": {
@@ -24,7 +24,7 @@
                     "There is a meditation hall called the Dhyan Mandapam, where visitors can meditate and find peace",
                     "The rock offers stunning panoramic views of the confluence of the Arabian Sea, the Bay of Bengal, and the Indian Ocean."
                 ],                        
-                "images": ["data/kanyakumari/vivekananda-rock -memorial.jpg"]
+                "images": ["data/kanyakumari/site/vivekananda-rock -memorial.jpg"]
             },
             {
                 "title": "The Bhagavathi Amman Temple",
@@ -37,7 +37,7 @@
                     "The temple is over 3000 years old and is one of the 108 Shakti Peethas, where parts of the goddess Sati's body are believed to have fallen.",
                     "According to legend, the temple was built by Lord Parasurama to honor the goddess who defeated the demon Banasura."
                 ],                        
-                "images": ["data/kanyakumari/bhagavathi-amman-temple.jpg"]
+                "images": ["data/kanyakumari/site/bhagavathi-amman-temple.jpg"]
             }
         ]
     },
@@ -72,7 +72,7 @@
                     "Rooms: The hotel provides various room types such as Double Rooms (Non AC and AC), Super Deluxe Cottages, and Family Rooms, all with beautiful sea views.",
                     "Services: Services include 24/7 front desk, airport transfers, room service, and laundry services."
                 ],
-                "images": ["data/kanyakumari/hotel-tamil-nadu.jpg"]
+                "images": ["data/kanyakumari/stay/hotel-tamil-nadu.jpg"]
             },
             {
                 "title": "Hotel Singaar International",
@@ -85,7 +85,7 @@
                     "Rooms: The hotel has various room types such as Deluxe, Super Deluxe, Luxury, and King Suites, all with panoramic ocean views or city views.",
                     "Services: Services include 24/7 front desk, room service, laundry services, taxi/car rentals, and currency exchange."
                 ],
-                "images": ["data/kanyakumari/hotel-singaar-international.jpg"]
+                "images": ["data/kanyakumari/stay/hotel-singaar-international.jpg"]
             }
         ]
     },
