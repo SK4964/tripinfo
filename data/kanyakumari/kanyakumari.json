@@ -59,6 +59,26 @@
                 "fee": []
             },
             {
+                "title": "Triveni Sangamam",
+                "timing":"6:00 AM - 10:00 PM",
+                "phoneNumber": "",
+                "address": "Near the Bhagavathi Amman Temple, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/Px3h7PHsq2g8RC4V6",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The Triveni Sangamam in Kanyakumari refers to the confluence of the Indian Ocean, the Arabian Sea, and the Bay of Bengal. This unique geographical feature makes Kanyakumari a special place, as it is the only location in India where you can witness the meeting of these three water bodies.",
+                    "Distinctive Colors: The different colors of the waters from each ocean are visible at the confluence, creating a beautiful and serene sight",
+                    "Scenic Beauty: The panoramic views of the ocean and the surrounding landscapes make it a popular spot for tourists and pilgrims.",
+                    "Spiritual Significance: The confluence is considered holy, and many visitors come to take a dip in the waters, believing it will wash away their sins."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/Triveni Sangamam.jpg",
+                    "data/kanyakumari/site/Triveni Sangamam-1.jpg",
+                    "data/kanyakumari/site/Triveni Sangamam-2.jpg"
+                ],
+                "fee": []
+            },
+            {
                 "title": "Vivekananda Rock Memorial",
                 "timing":"8:00 AM - 4:00 PM",
                 "phoneNumber": "",
@@ -215,6 +235,29 @@
                 "fee": []
             },
             {
+                "title": "View Tower",
+                "timing":"5:00 AM - 7:00 PM",
+                "phoneNumber": "",
+                "address": "Beach Road, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/co25MjP1f4iBPQq49",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The View Tower in Kanyakumari is a popular spot for visitors to enjoy panoramic views of the surrounding landscapes and ocean. The View Tower is a great place to capture memorable photos and enjoy the natural beauty of Kanyakumari.",
+                    "Panoramic Views: The tower offers a 360-degree view of the ocean, the Vivekananda Rock Memorial, Thiruvalluvar Statue, and other landmarks.",
+                    "Telescope: There's a telescope available for visitors to get a closer look at the distant monuments and the vast ocean.",
+                    "Scenic Beauty: The views of the sunrise and sunset from the tower are particularly breathtaking. Early mornings and evenings provides the best views."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/View Tower.jpg",
+                    "data/kanyakumari/site/View Tower-1.jpg",
+                    "data/kanyakumari/site/View Tower-2.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "20"},
+                    {"description": "Children", "value": "10"}
+                ]
+            },
+            {
                 "title": "Balaji Temple",
                 "timing":"4:00 AM - 8:00 PM",
                 "phoneNumber": "",
@@ -242,7 +285,7 @@
                 "timing":"10:00 AM - 1:00 PM, 4:00 PM - 9:00 PM",
                 "phoneNumber": "",
                 "address": "Vivekananda Kendra, Vivekanandapuram, Kanyakumari",
-                "locationUrl": "",
+                "locationUrl": "https://maps.app.goo.gl/H1mS5rniGEU9A8aW6",
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
                 "description": [
                     "The Ramayan Mandir, also known as Sri Ramayana Darshanam, is located in the Vivekanandapuram area of Kanyakumari, within the Vivekananda Kendra campus. This temple is dedicated to Lord Rama and showcases the Valmiki Ramayan through a pictorial exhibition.",
@@ -262,7 +305,32 @@
                 ]
             },
             {
-                "title": "The Eco Park",
+                "title": "Vivekananda Pictorial Exhibition",
+                "timing":"9:00 AM - 1:00 PM, 4:00 PM - 8:00 PM *",
+                "phoneNumber": "",
+                "address": "Vivekananda Kendra, Vivekanandapuram, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/VAuWtsBscthoX1xm9",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The Vivekananda Pictorial Exhibition is located at the Vivekananda Kendra in Vivekanandapuram, Kanyakumari. This unique exhibition showcases the life and contributions of Swami Vivekananda through a series of pictorial displays. It highlights his journey, teachings, and his clarion call to serve the Motherland.",
+                    "The exhibition is a popular tourist destination and a place of pilgrimage for many who seek inspiration from Vivekananda's teachings. It is open to the public and offers a unique opportunity to learn about the life and legacy of this influential figure.",
+                    "Pictorial Displays: The exhibition features numerous panels depicting significant moments from Swami Vivekananda's life",
+                    "Educational Value: It provides insights into his philosophy and his impact on India's cultural and spiritual heritage.",
+                    "* Closed on Tuesday afternoon."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/Vivekananda Pictorial Exhibition.jpg",
+                    "data/kanyakumari/site/Vivekananda Pictorial Exhibition-1.jpg",
+                    "data/kanyakumari/site/Vivekananda Pictorial Exhibition-2.jpg",
+                    "data/kanyakumari/site/Vivekananda Pictorial Exhibition-3.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "30"},
+                    {"description": "Children", "value": "30"}
+                ]
+            },
+            {
+                "title": "Eco Park",
                 "timing":"10:00 AM - 6:00 PM, Closed on Monday",
                 "phoneNumber": "",
                 "address": "Main Road, Pazhathottam, Kanyakumari",
@@ -286,6 +354,33 @@
                 ],
                 "fee": [
                     {"description": "Adult", "value": "20"},
+                    {"description": "Children", "value": "10"}
+                ]
+            },
+            {
+                "title": "Vattakottai Fort",
+                "timing":"8:00 AM - 5:00 PM",
+                "phoneNumber": "",
+                "address": "Vattakkottai Fort Rd, Vattakkottai",
+                "locationUrl": "https://maps.app.goo.gl/AD2DZU9x1F3zR1G27",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "Vattakottai Fort, also known as the Circular Fort, is a historic seaside fort located about 7 km from Kanyakumari, Tamil Nadu. Built in the 18th century during the reign of the Travancore kingdom, it served as a coastal defense fortification.",
+                    "Architecture: The fort is rectangular in shape, surrounded by strong walls that are 25-26 feet high. It includes watch towers, weapon rooms, and other sections",
+                    "Historical Significance: Constructed under the supervision of Captain Eustachius De Lannoy, it was one of the last seaside forts built by the Travancore kingdom",
+                    "Scenic Views: The fort offers stunning views of the ocean and the Western Ghats. It's also known for the nearby black sand beaches",
+                    "Restoration: The fort has been restored and developed as a tourist attraction, preserving its historical importance"
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/Vattakottai Fort.jpg",
+                    "data/kanyakumari/site/Vattakottai Fort-1.jpg",
+                    "data/kanyakumari/site/Vattakottai Fort-2.jpg",
+                    "data/kanyakumari/site/Vattakottai Fort-3.jpg",
+                    "data/kanyakumari/site/Vattakottai Fort-4.jpg",
+                    "data/kanyakumari/site/Vattakottai Fort-5.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "25"},
                     {"description": "Children", "value": "10"}
                 ]
             }
