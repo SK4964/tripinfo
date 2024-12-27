@@ -170,7 +170,7 @@
             },
             {
                 "title": "Thiruvalluvar Statue",
-                "timing":"8:00 AM - 5:00 PM",
+                "timing":"8:00 AM - 4:00 PM",
                 "phoneNumber": "",
                 "address": "Kanyakumari",
                 "locationUrl": "https://maps.app.goo.gl/wPSEQ3LvDsYKQcR16",
@@ -193,7 +193,7 @@
             },
             {
                 "title": "Kanyakumari Beach",
-                "timing":"5:00 AM - 11:00 PM",
+                "timing":"5:00 AM - 10:00 PM",
                 "phoneNumber": "",
                 "address": "Kanyakumari",
                 "locationUrl": "https://maps.app.goo.gl/7EgaPTidJRE9JTCw7",
@@ -409,6 +409,31 @@
                 ]
             },
             {
+                "title": "Wax Museum",
+                "timing":"8:00 AM - 6:30 PM",
+                "phoneNumber": "",
+                "address": "Main Road, Near Railway Station, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/jSHxhM34mReuT4eFA",
+                "amenities": ["local_parking", "local_dining", "wc"],
+                "description": [
+                    "The Kanyakumari Wax Museum, also known as Mayapuri Wonder Wax, is a fascinating attraction located near the railway station in Kanyakumari. The museum features a collection of wax sculptures representing famous personalities from history, politics, sports, and entertainment.",
+                    "Sculptures: The museum showcases wax figures of notable figures such as Mahatma Gandhi, Mother Teresa, Indira Gandhi, Amitabh Bachchan, Shah Rukh Khan, Arnold Schwarzenegger, and Jackie Chan",
+                    "Interactive Art: In addition to the wax figures, the museum also has 3D paintings and interactive exhibits that add to the visitor experience.",
+                    "The museum is a great place to take memorable photos with wax figures of your favorite celebrities and learn about their contributions."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/wax-museum.jpg",
+                    "data/kanyakumari/site/wax-museum-1.jpg",
+                    "data/kanyakumari/site/wax-museum-2.jpg",
+                    "data/kanyakumari/site/wax-museum-3.jpg",
+                    "data/kanyakumari/site/wax-museum-4.jpg"
+                ],
+                "fee": [
+                    {"description": "Adults", "value": "50"},
+                    {"description": "Children", "value": "40"}
+                ]
+            },
+            {
                 "title": "Murugan Kundram Temple",
                 "timing":"6:00 AM - 12:00 PM, 4:00 PM - 8:00 PM",
                 "phoneNumber": "",
@@ -427,6 +452,107 @@
                     "data/kanyakumari/site/murugan-kundram-temple-4.jpg"
                 ],
                 "fee": []
+            },
+            {
+                "title": "Thanumalayan Temple",
+                "timing":"4:30 AM - 12:30 PM, 4:00 PM - 8:00 PM",
+                "phoneNumber": "",
+                "address": "Suchindram, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/Ph9KwkZw91QpZqqk9",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The Thanumalayan Temple, also known as the Sthanumalayan Kovil, is a significant Hindu temple located in Suchindram, near Kanyakumari, Tamil Nadu. This temple is unique as it is dedicated to the Trimurti—Lord Shiva, Lord Vishnu, and Lord Brahma.",
+                    "Architecture: The temple showcases Dravidian architecture with two gateway towers (gopurams), the tallest being 44 meters (144 feet) high.",
+                    "Deities: The main deity, Sri Sthanumalayan, represents the three gods—Shiva (Sthanu), Vishnu (Mal), and Brahma (Ayan).",
+                    "Legends: The temple is associated with legends of King Indra and Anasuya, the wife of Sage Atri.",
+                    "Festivals: The temple hosts numerous yearly festivals, with the Margazhi festival being the most prominent."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/thanumalayan-temple.jpg",
+                    "data/kanyakumari/site/thanumalayan-temple-1.jpg",
+                    "data/kanyakumari/site/thanumalayan-temple-2.jpg",
+                    "data/kanyakumari/site/thanumalayan-temple-3.jpg",
+                    "data/kanyakumari/site/thanumalayan-temple-4.jpg"
+                ],
+                "fee": []
+            },
+            {
+                "title": "Padmanabhapuram Palace",
+                "timing":"9:00 AM - 1:00 PM, 2:00 PM - 4:30 PM *",
+                "phoneNumber": "",
+                "address": "Padmanabhapuram, Thuckalay",
+                "locationUrl": "https://maps.app.goo.gl/dWSr5LgMMCBnk3Zt5",
+                "amenities": ["local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The Padmanabhapuram Palace, also known as Kalkulam Palace, is a historic palace located in Padmanabhapuram, near Kanyakumari, Tamil Nadu. It was the former capital of the erstwhile kingdom of Travancore and is now maintained by the Kerala Government.",
+                    "Architecture: The palace is a fine example of traditional Kerala architecture, with intricate wood carvings, beautiful murals, and unique structural designs.",
+                    "Historical Significance: Constructed around 1601 CE by Iravi Varma Kulasekhara Perumal, it was later rebuilt by King Anizham Thirunal Marthanda Varma in 1750.",
+                    "The palace complex includes several notable structures such as the Mantrashala (King's Council Chamber), Nataksala (Performance Hall), and Thai Kottaram (Mother's Palace)",
+                    "Heritage Museum: The palace has been converted into a museum, showcasing various artifacts and exhibits related to the history and culture of the Travancore kingdom",
+                    "Closed on Monday."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/padmanabhapuram-palace.jpg",
+                    "data/kanyakumari/site/padmanabhapuram-palace-1.jpg",
+                    "data/kanyakumari/site/padmanabhapuram-palace-2.jpg",
+                    "data/kanyakumari/site/padmanabhapuram-palace-3.jpg",
+                    "data/kanyakumari/site/padmanabhapuram-palace-4.jpg",
+                    "data/kanyakumari/site/padmanabhapuram-palace-5.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "40"},
+                    {"description": "Children", "value": "10"},
+                    {"description": "Mobile Camera", "value": "20"},
+                    {"description": "Digital Camera", "value": "60"},
+                    {"description": "Professional Videograph", "value": "2100"}
+                ]
+            },
+            {
+                "title": "Mathoor Hanging Bridge",
+                "timing":"6:00 AM - 6:00 PM",
+                "phoneNumber": "",
+                "address": "Thottipalam Road, Kalkulam",
+                "locationUrl": "https://maps.app.goo.gl/F8dM2FzRn9tAccgJA",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The Mathoor Hanging Bridge, also known as the Mathur Aqueduct, is an impressive engineering marvel located in the Thiruvattar taluk of Kanyakumari district, Tamil Nadu. Built in 1966, it is the tallest and longest trough bridge in Asia",
+                    "Height: 115 feet (35 meters), Length: 1 kilometer (0.62 miles), Purpose: Constructed as a drought relief measure, it transports water for irrigation from one hill to another.",
+                    "Structure: The bridge is supported by 28 huge pillars and has a trough that is 7 feet tall and 7.5 feet wide., Tourist Attraction: The bridge has become a popular tourist spot, offering breathtaking views of the surrounding hills and rivers."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/mathoor-hanging-bridge.jpg",
+                    "data/kanyakumari/site/mathoor-hanging-bridge-1.jpg",
+                    "data/kanyakumari/site/mathoor-hanging-bridge-2.jpg",
+                    "data/kanyakumari/site/mathoor-hanging-bridge-3.jpg",
+                    "data/kanyakumari/site/mathoor-hanging-bridge-4.jpg"
+                ],
+                "fee": []
+            },
+            {
+                "title": "Thirparappu Falls",
+                "timing":"6:00 AM - 6:00 PM",
+                "phoneNumber": "",
+                "address": "Thiruparappu, Kuzhithurai",
+                "locationUrl": "https://maps.app.goo.gl/R9ob91yBxau7nYao6",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "Thirparappu Falls is a scenic waterfall located in the Kanyakumari district of Tamil Nadu, near the town of Kulasekharam. The waterfall is formed by the Kodayar River making its descent from a height of about 50 feet. The rocky riverbed and lush green surroundings make it a picturesque spot for visitors.",
+                    "Height: Approximately 50 feet, River: Kodayar River, Scenery: Rocky riverbed and lush greenery, Accessibility: The falls are accessible for about seven months of the year, typically from the monsoon season until the summer.",
+                    "The area also features a temple dedicated to Lord Shiva and a swimming pool for children, making it a popular spot for families."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/thirparappu-falls.jpg",
+                    "data/kanyakumari/site/thirparappu-falls-1.jpg",
+                    "data/kanyakumari/site/thirparappu-falls-2.jpg",
+                    "data/kanyakumari/site/thirparappu-falls-3.jpg",
+                    "data/kanyakumari/site/thirparappu-falls-4.jpg",
+                    "data/kanyakumari/site/thirparappu-falls-5.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "5"},
+                    {"description": "Children", "value": "5"},
+                    {"description": "Camera", "value": "75"}
+                ]
             }
         ]
     },
