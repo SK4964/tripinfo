@@ -72,9 +72,9 @@
                     "Spiritual Significance: The confluence is considered holy, and many visitors come to take a dip in the waters, believing it will wash away their sins."
                 ],                        
                 "images": [
-                    "data/kanyakumari/site/Triveni Sangamam.jpg",
-                    "data/kanyakumari/site/Triveni Sangamam-1.jpg",
-                    "data/kanyakumari/site/Triveni Sangamam-2.jpg"
+                    "data/kanyakumari/site/triveni sangamam.jpg",
+                    "data/kanyakumari/site/triveni sangamam-1.jpg",
+                    "data/kanyakumari/site/triveni sangamam-2.jpg"
                 ],
                 "fee": []
             },
@@ -248,9 +248,9 @@
                     "Scenic Beauty: The views of the sunrise and sunset from the tower are particularly breathtaking. Early mornings and evenings provides the best views."
                 ],                        
                 "images": [
-                    "data/kanyakumari/site/View Tower.jpg",
-                    "data/kanyakumari/site/View Tower-1.jpg",
-                    "data/kanyakumari/site/View Tower-2.jpg"
+                    "data/kanyakumari/site/view tower.jpg",
+                    "data/kanyakumari/site/view tower-1.jpg",
+                    "data/kanyakumari/site/view tower-2.jpg"
                 ],
                 "fee": [
                     {"description": "Adult", "value": "20"},
@@ -319,10 +319,10 @@
                     "* Closed on Tuesday afternoon."
                 ],                        
                 "images": [
-                    "data/kanyakumari/site/Vivekananda Pictorial Exhibition.jpg",
-                    "data/kanyakumari/site/Vivekananda Pictorial Exhibition-1.jpg",
-                    "data/kanyakumari/site/Vivekananda Pictorial Exhibition-2.jpg",
-                    "data/kanyakumari/site/Vivekananda Pictorial Exhibition-3.jpg"
+                    "data/kanyakumari/site/vivekananda pictorial exhibition.jpg",
+                    "data/kanyakumari/site/vivekananda pictorial exhibition-1.jpg",
+                    "data/kanyakumari/site/vivekananda pictorial exhibition-2.jpg",
+                    "data/kanyakumari/site/vivekananda pictorial exhibition-3.jpg"
                 ],
                 "fee": [
                     {"description": "Adult", "value": "30"},
@@ -372,12 +372,12 @@
                     "Restoration: The fort has been restored and developed as a tourist attraction, preserving its historical importance"
                 ],                        
                 "images": [
-                    "data/kanyakumari/site/Vattakottai Fort.jpg",
-                    "data/kanyakumari/site/Vattakottai Fort-1.jpg",
-                    "data/kanyakumari/site/Vattakottai Fort-2.jpg",
-                    "data/kanyakumari/site/Vattakottai Fort-3.jpg",
-                    "data/kanyakumari/site/Vattakottai Fort-4.jpg",
-                    "data/kanyakumari/site/Vattakottai Fort-5.jpg"
+                    "data/kanyakumari/site/vattakottai fort.jpg",
+                    "data/kanyakumari/site/vattakottai fort-1.jpg",
+                    "data/kanyakumari/site/vattakottai fort-2.jpg",
+                    "data/kanyakumari/site/vattakottai fort-3.jpg",
+                    "data/kanyakumari/site/vattakottai fort-4.jpg",
+                    "data/kanyakumari/site/vattakottai fort-5.jpg"
                 ],
                 "fee": [
                     {"description": "Adult", "value": "25"},
