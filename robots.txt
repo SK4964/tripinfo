@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /data/
+Sitemap: https://tripinfo.in/sitemap.xml

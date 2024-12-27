@@ -72,9 +72,9 @@
                     "Spiritual Significance: The confluence is considered holy, and many visitors come to take a dip in the waters, believing it will wash away their sins."
                 ],                        
                 "images": [
-                    "data/kanyakumari/site/triveni sangamam.jpg",
-                    "data/kanyakumari/site/triveni sangamam-1.jpg",
-                    "data/kanyakumari/site/triveni sangamam-2.jpg"
+                    "data/kanyakumari/site/triveni-sangamam.jpg",
+                    "data/kanyakumari/site/triveni-sangamam-1.jpg",
+                    "data/kanyakumari/site/triveni-sangamam-2.jpg"
                 ],
                 "fee": []
             },
@@ -248,9 +248,9 @@
                     "Scenic Beauty: The views of the sunrise and sunset from the tower are particularly breathtaking. Early mornings and evenings provides the best views."
                 ],                        
                 "images": [
-                    "data/kanyakumari/site/view tower.jpg",
-                    "data/kanyakumari/site/view tower-1.jpg",
-                    "data/kanyakumari/site/view tower-2.jpg"
+                    "data/kanyakumari/site/view-tower.jpg",
+                    "data/kanyakumari/site/view-tower-1.jpg",
+                    "data/kanyakumari/site/view-tower-2.jpg"
                 ],
                 "fee": [
                     {"description": "Adult", "value": "20"},
@@ -319,10 +319,10 @@
                     "* Closed on Tuesday afternoon."
                 ],                        
                 "images": [
-                    "data/kanyakumari/site/vivekananda pictorial exhibition.jpg",
-                    "data/kanyakumari/site/vivekananda pictorial exhibition-1.jpg",
-                    "data/kanyakumari/site/vivekananda pictorial exhibition-2.jpg",
-                    "data/kanyakumari/site/vivekananda pictorial exhibition-3.jpg"
+                    "data/kanyakumari/site/vivekananda-pictorial-exhibition.jpg",
+                    "data/kanyakumari/site/vivekananda-pictorial-exhibition-1.jpg",
+                    "data/kanyakumari/site/vivekananda-pictorial-exhibition-2.jpg",
+                    "data/kanyakumari/site/vivekananda-pictorial-exhibition-3.jpg"
                 ],
                 "fee": [
                     {"description": "Adult", "value": "30"},
@@ -372,17 +372,61 @@
                     "Restoration: The fort has been restored and developed as a tourist attraction, preserving its historical importance"
                 ],                        
                 "images": [
-                    "data/kanyakumari/site/vattakottai fort.jpg",
-                    "data/kanyakumari/site/vattakottai fort-1.jpg",
-                    "data/kanyakumari/site/vattakottai fort-2.jpg",
-                    "data/kanyakumari/site/vattakottai fort-3.jpg",
-                    "data/kanyakumari/site/vattakottai fort-4.jpg",
-                    "data/kanyakumari/site/vattakottai fort-5.jpg"
+                    "data/kanyakumari/site/vattakottai-fort.jpg",
+                    "data/kanyakumari/site/vattakottai-fort-1.jpg",
+                    "data/kanyakumari/site/vattakottai-fort-2.jpg",
+                    "data/kanyakumari/site/vattakottai-fort-3.jpg",
+                    "data/kanyakumari/site/vattakottai-fort-4.jpg",
+                    "data/kanyakumari/site/vattakottai-fort-5.jpg"
                 ],
                 "fee": [
                     {"description": "Adult", "value": "25"},
                     {"description": "Children", "value": "10"}
                 ]
+            },
+            {
+                "title": "Musical Fountain",
+                "timing":"6:00 PM - 9:00 PM",
+                "phoneNumber": "",
+                "address": "No 9, NH 44, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/raLQ5N9WBt3GBBXK9",
+                "amenities": ["local_parking", "local_dining", "wc"],
+                "description": [
+                    "The Musical Fountain in Kanyakumari is a popular attraction known for its dancing water and light shows. It's located on National Highway, opposite to the Murugan Kuntram Temple. The fountain features a captivating combination of water, music, and light effects, making it a delightful experience for visitors.",
+                    "It's a great spot to visit in the evening, especially if you're looking for some entertainment after exploring other attractions in Kanyakumari.",
+                    "The Musical Fountain is a must-see attraction for anyone visiting Kanyakumari. It's a unique and unforgettable experience that will leave you mesmerized."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/musical-fountain.jpg",
+                    "data/kanyakumari/site/musical-fountain-1.jpg",
+                    "data/kanyakumari/site/musical-fountain-2.jpg",
+                    "data/kanyakumari/site/musical-fountain-3.jpg",
+                    "data/kanyakumari/site/musical-fountain-4.jpg"
+                ],
+                "fee": [
+                    {"description": "Silver", "value": "100"},
+                    {"description": "Gold", "value": "150"}
+                ]
+            },
+            {
+                "title": "Murugan Kundram Temple",
+                "timing":"6:00 AM - 12:00 PM, 4:00 PM - 8:00 PM",
+                "phoneNumber": "",
+                "address": "NH 44, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/VSbXA5CHUz8ca5df8",
+                "amenities": ["local_parking", "wc"],
+                "description": [
+                    "The Murugan Kundram Temple is a revered temple dedicated to Lord Murugan, the Tamil god of war, youth, and victory. Located atop a hill in Kanyakumari, the temple is steeped in local history and mythology. The word Kundram translates to hill in Tamil, symbolizing the temple's elevated location.",
+                    "The temple is known for its Dravidian architecture, featuring intricately carved pillars and vivid sculptures depicting various forms of Lord Murugan and other Hindu deities. It's a significant pilgrimage site, especially during festivals like Thaipusam and Kanda Sashti."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/murugan-kundram-temple.jpg",
+                    "data/kanyakumari/site/murugan-kundram-temple-1.jpg",
+                    "data/kanyakumari/site/murugan-kundram-temple-2.jpg",
+                    "data/kanyakumari/site/murugan-kundram-temple-3.jpg",
+                    "data/kanyakumari/site/murugan-kundram-temple-4.jpg"
+                ],
+                "fee": []
             }
         ]
     },
