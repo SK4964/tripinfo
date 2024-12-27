@@ -1,0 +1,462 @@
+{
+    "title": "Kanyakumari",
+    "subTitle": "Tamil Nadu, India",
+    "description": "Kanyakumari, also known as Cape Comorin, is the southernmost tip of the Indian mainland, located in the state of Tamil Nadu. It's a unique place where you can witness the confluence of three oceans: the Bay of Bengal, the Arabian Sea, and the Indian Ocean.",
+    "locationUrl": "https://maps.app.goo.gl/Uv3rLSCf2X5Ztnq57",
+    "image": "data/kanyakumari/site/kanyakumari.jpg",
+    "bestTimeToVisit": "The perfect time to experience Kanniyakumari is from November to March as the weather would be cool and pleasant. Summers can be really hot as the destination has a tropical climate.",
+    "updatedOn": "15/12/2024",
+    "connectivity": {
+        "bus": "Kanyakumari Bus Station, about 1 km away.",
+        "train": "Kanyakumari Train Station, about 1.3 km away.",
+        "flight": "Thiruvananthapuram International Airport, about 90 km away."
+    },
+    "attractions": {
+        "details": [
+            {
+                "title": "Sunrise",
+                "timing":"6:00 AM",
+                "phoneNumber": "",
+                "address": "Near Bhagavathi Amman Temple, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/8wHFvP94BCEoHjH56",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "Catching the sunrise in Kanyakumari is an absolutely spectacular experience! It's one of the few places in India where you can watch both the sunrise and sunset over the ocean.",
+                    "The sight of the sun emerging from the horizon, painting the sky with shades of orange, pink, and gold is truly mesmerizing. Enjoy the tranquility and the natural beauty!",
+                    "The sunrise usually happens around 6:00 AM, but it's best to arrive early to find a good spot and soak in the pre-dawn serenity.",
+                    "Clear skies provide the best view. Overcast weather can obscure the sunrise."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/sunrise.jpg",
+                    "data/kanyakumari/site/sunrise-1.jpg",
+                    "data/kanyakumari/site/sunrise-2.jpg",
+                    "data/kanyakumari/site/sunrise-3.jpg",
+                    "data/kanyakumari/site/sunrise-4.jpg"
+                ],
+                "fee": []
+            },
+            {
+                "title": "Sunset",
+                "timing":"6:00 PM",
+                "phoneNumber": "",
+                "address": "Beach Road, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/FNRQVTeV9W6ujGFt9",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "Experiencing the sunset in Kanyakumari is just as breathtaking as the sunrise. The sight of the sun setting over the confluence of three seas is a truly magical experience. Enjoy the peaceful atmosphere and the natural beauty.",
+                    "Vivekananda Rock Memorial: If you're there in the late afternoon, you can enjoy a serene view of the sunset from this iconic landmark.",
+                    "Kanyakumari Beach: The beach is another great location to watch the sunset and enjoy the sound of the waves.",
+                    "Arrive at your chosen spot at least 30 minutes before sunset to secure a good viewing position. A cloudless evening provides the most vivid colors.",
+                    "The period just after the sun has set, known as twilight, often offers beautiful colors in the sky."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/sunset.jpg",
+                    "data/kanyakumari/site/sunset-1.jpg",
+                    "data/kanyakumari/site/sunset-2.jpg",
+                    "data/kanyakumari/site/sunset-3.jpg",
+                    "data/kanyakumari/site/sunset-4.jpg"
+                ],
+                "fee": []
+            },
+            {
+                "title": "Triveni Sangamam",
+                "timing":"6:00 AM - 10:00 PM",
+                "phoneNumber": "",
+                "address": "Near the Bhagavathi Amman Temple, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/Px3h7PHsq2g8RC4V6",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The Triveni Sangamam in Kanyakumari refers to the confluence of the Indian Ocean, the Arabian Sea, and the Bay of Bengal. This unique geographical feature makes Kanyakumari a special place, as it is the only location in India where you can witness the meeting of these three water bodies.",
+                    "Distinctive Colors: The different colors of the waters from each ocean are visible at the confluence, creating a beautiful and serene sight",
+                    "Scenic Beauty: The panoramic views of the ocean and the surrounding landscapes make it a popular spot for tourists and pilgrims.",
+                    "Spiritual Significance: The confluence is considered holy, and many visitors come to take a dip in the waters, believing it will wash away their sins."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/triveni sangamam.jpg",
+                    "data/kanyakumari/site/triveni sangamam-1.jpg",
+                    "data/kanyakumari/site/triveni sangamam-2.jpg"
+                ],
+                "fee": []
+            },
+            {
+                "title": "Vivekananda Rock Memorial",
+                "timing":"8:00 AM - 4:00 PM",
+                "phoneNumber": "",
+                "address": "Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/dq1nACSqKZyCqw4z8",
+                "amenities": ["local_parking", "shopping_bag", "wc"],
+                "description": [
+                    "The Vivekananda Rock Memorial is a majestic structure located on a small island off the coast of Kanyakumari. It's a significant landmark dedicated to Swami Vivekananda, the great Indian philosopher and spiritual leader.",
+                    "The memorial was built in 1970 to honor Swami Vivekananda, who is said to have attained enlightenment on this rock.",
+                    "The design of the memorial is a blend of traditional Indian and contemporary architecture, featuring intricate carvings and a statue of Swami Vivekananda.",
+                    "There is a meditation hall called the Dhyan Mandapam, where visitors can meditate and find peace",
+                    "The rock offers stunning panoramic views of the confluence of the Arabian Sea, the Bay of Bengal, and the Indian Ocean."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/vivekananda-rock-memorial.jpg",
+                    "data/kanyakumari/site/vivekananda-rock-memorial-1.jpg",
+                    "data/kanyakumari/site/vivekananda-rock-memorial-2.jpg",
+                    "data/kanyakumari/site/vivekananda-rock-memorial-3.jpg",
+                    "data/kanyakumari/site/vivekananda-rock-memorial-4.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "30"},
+                    {"description": "Ferry Ticket", "value": "75"},
+                    {"description": "Ferry Ticket (Special)", "value": "300"}
+                ]
+            },
+            {
+                "title": "Bhagavathi Amman Temple",
+                "timing":"4:30 AM - 12:30 PM, 4:00 PM - 8:00 PM",
+                "phoneNumber": "+91 4652246223",
+                "address": "Sannathy Street, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/pYeAuhRomGo87nxY8",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The Bhagavathi Amman Temple, also known as the Kumari Amman Temple, is one of the most sacred temples in Kanyakumari, Tamil Nadu.",
+                    "The temple is situated on the southernmost tip of mainland India, offering stunning views of the ocean.",
+                    "The presiding deity is Goddess Devi Kanyakumari, also known as Bhagavathi Amman. She is considered a manifestation of the goddess Parvati.",
+                    "The temple is over 3000 years old and is one of the 108 Shakti Peethas, where parts of the goddess Shakti's body are believed to have fallen.",
+                    "According to legend, the temple was built by Lord Parasurama to honor the goddess who defeated the demon Banasura."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/bhagavathi-amman-temple.jpg",
+                    "data/kanyakumari/site/bhagavathi-amman-temple-1.jpg",
+                    "data/kanyakumari/site/bhagavathi-amman-temple-2.jpg",
+                    "data/kanyakumari/site/bhagavathi-amman-temple-3.jpg",
+                    "data/kanyakumari/site/bhagavathi-amman-temple-4.jpg"
+                ],
+                "fee": []
+            },
+            {
+                "title": "Gandhi Mandapam",
+                "timing":"7:30 AM - 7:00 PM",
+                "phoneNumber": "",
+                "address": "Beach Road, Kanyakumari",
+                "locationUrl": "",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The Gandhi Mandapam in Kanyakumari is a memorial park dedicated to Mahatma Gandhi, the Father of the Nation. It is located near the Kumari Amman Temple and the sea shore.",
+                    "The memorial was built to honor Gandhi, who visited Kanyakumari twice, in 1925 and 19371. After his death in 1948, his ashes were kept here for public darshan before being immersed in the sea.",
+                    "The memorial is designed in the Orissa architectural style and features a 79-foot tall pink portico. One of the unique aspects of the memorial is that on October 2nd, Gandhi's birthday, the sun's rays fall directly on the spot where his ashes were kept."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/gandhi-mandapam.jpg",
+                    "data/kanyakumari/site/gandhi-mandapam-1.jpg",
+                    "data/kanyakumari/site/gandhi-mandapam-2.jpg",
+                    "data/kanyakumari/site/gandhi-mandapam-3.jpg"
+                ],
+                "fee": []
+            },
+            {
+                "title": "Kamarajar Manimandapam",
+                "timing":"7:00 AM - 7:00 PM",
+                "phoneNumber": "",
+                "address": "Beach Road, Kanyakumari",
+                "locationUrl": "",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The Kamarajar Manimandapam is a memorial dedicated to K. Kamaraj, a prominent freedom fighter and former Chief Minister of Tamil Nadu. It is located near the Gandhi Mandapam in Kanyakumari",
+                    "The memorial was built to honor Kamaraj, who was affectionately known as the Black Gandhi due to his simplicity and dedication to public service.",
+                    "His ashes were kept here for public darshan before being immersed in the sea. The structure is designed in a blend of contemporary and traditional Dravidian architectural styles, symbolizing Kamaraj's enduring legacy."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/kamarajar-manimandapam.jpg",
+                    "data/kanyakumari/site/kamarajar-manimandapam-1.jpg",
+                    "data/kanyakumari/site/kamarajar-manimandapam-2.jpg",
+                    "data/kanyakumari/site/kamarajar-manimandapam-3.jpg"
+                ],
+                "fee": []
+            },
+            {
+                "title": "Thiruvalluvar Statue",
+                "timing":"8:00 AM - 5:00 PM",
+                "phoneNumber": "",
+                "address": "Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/wPSEQ3LvDsYKQcR16",
+                "amenities": ["local_parking", "shopping_bag", "wc"],
+                "description": [
+                    "The Thiruvalluvar Statue is a magnificent 41-meter-tall stone sculpture of the Tamil poet and philosopher Thiruvalluvar, who authored the ancient Tamil work Thirukkural. It is located on a small island near Kanyakumari, where the Bay of Bengal, the Arabian Sea, and the Indian Ocean meet.",
+                    "Height: 41 meters (133 feet),  Pedestal Height: 12 meters (38 feet), Total Height: 53 meters (173 feet), Weight: 7,000 tonnes (7,700 short tons), Designer: V. Ganapati Sthapati, Unveiled: January 1, 2000",
+                    "The statue represents the three themes of the Thirukkural: Virtue (Aram), Wealth (Porul), and Love (Inbam). The right hand of the statue, with three fingers pointing skywards, signifies these three themes"
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/thiruvalluvar-statue.jpg",
+                    "data/kanyakumari/site/thiruvalluvar-statue-1.jpg",
+                    "data/kanyakumari/site/thiruvalluvar-statue-2.jpg",
+                    "data/kanyakumari/site/thiruvalluvar-statue-3.jpg"
+                ],
+                "fee": [
+                    {"description": "Ferry Ticket", "value": "75"},
+                    {"description": "Ferry Ticket (Special)", "value": "300"}
+                ]
+            },
+            {
+                "title": "Kanyakumari Beach",
+                "timing":"5:00 AM - 11:00 PM",
+                "phoneNumber": "",
+                "address": "Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/7EgaPTidJRE9JTCw7",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "Kanyakumari Beach is a stunning and serene beach located at the southernmost tip of the Indian subcontinent, where the Bay of Bengal, the Arabian Sea, and the Indian Ocean converge. This unique geographical location offers visitors the incredible opportunity to witness both the sunrise and sunset over the ocean.",
+                    "Scenic Views: The beach offers breathtaking views of the ocean and the famous Vivekananda Rock Memorial and Thiruvalluvar Statue.",
+                    "Vibrant Atmosphere: The beach is bustling with activity, from local vendors selling snacks and souvenirs to families enjoying a day out.",
+                    "Triveni Sangam: The confluence of the three seas is marked by distinct shades of blue, making it a picturesque spot."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/kanyakumari-beach.jpg",
+                    "data/kanyakumari/site/kanyakumari-beach-1.jpg",
+                    "data/kanyakumari/site/kanyakumari-beach-2.jpg",
+                    "data/kanyakumari/site/kanyakumari-beach-3.jpg",
+                    "data/kanyakumari/site/kanyakumari-beach-4.jpg"
+                ],
+                "fee": []
+            },
+            {
+                "title": "Sunset Point",
+                "timing":"6:00 AM - 10:00 PM",
+                "phoneNumber": "",
+                "address": "Kovalam, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/bQQoBgKUdAdXZ8Tb8",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "Sunset Point in Kanyakumari is a must-visit location to witness a truly mesmerizing sunset. Located near the Kanyakumari Beach, this spot provides an unobstructed view of the sun descending into the horizon, casting vibrant hues of orange, pink, and purple across the sky.",
+                    "Unobstructed Views: A clear view of the sunset over the ocean, making it a perfect spot for photography.",
+                    "Serene Atmosphere: A peaceful and tranquil setting, ideal for relaxation and reflection.",
+                    "Local Vendors: Nearby stalls selling snacks and refreshments, adding to the experience."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/sunset-point.jpg",
+                    "data/kanyakumari/site/sunset-point-1.jpg",
+                    "data/kanyakumari/site/sunset-point-2.jpg",
+                    "data/kanyakumari/site/sunset-point-3.jpg"
+                ],
+                "fee": []
+            },
+            {
+                "title": "View Tower",
+                "timing":"5:00 AM - 7:00 PM",
+                "phoneNumber": "",
+                "address": "Beach Road, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/co25MjP1f4iBPQq49",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The View Tower in Kanyakumari is a popular spot for visitors to enjoy panoramic views of the surrounding landscapes and ocean. The View Tower is a great place to capture memorable photos and enjoy the natural beauty of Kanyakumari.",
+                    "Panoramic Views: The tower offers a 360-degree view of the ocean, the Vivekananda Rock Memorial, Thiruvalluvar Statue, and other landmarks.",
+                    "Telescope: There's a telescope available for visitors to get a closer look at the distant monuments and the vast ocean.",
+                    "Scenic Beauty: The views of the sunrise and sunset from the tower are particularly breathtaking. Early mornings and evenings provides the best views."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/view tower.jpg",
+                    "data/kanyakumari/site/view tower-1.jpg",
+                    "data/kanyakumari/site/view tower-2.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "20"},
+                    {"description": "Children", "value": "10"}
+                ]
+            },
+            {
+                "title": "Balaji Temple",
+                "timing":"4:00 AM - 8:00 PM",
+                "phoneNumber": "",
+                "address": "Harbour Road, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/Y3hnTNi7fhJBUpuF9",
+                "amenities": ["local_parking", "wc"],
+                "description": [
+                    "The Balaji Temple in Kanyakumari, also known as the Tirupati Venkateswara Temple, is a relatively new but significant landmark in the southernmost tip of India. It's a replica of the famous Tirupati Venkateswara Temple in Andhra Pradesh.",
+                    "Location: It's situated on the premises of the Vivekananda Kendra, close to the shore, offering a serene and spiritual atmosphere.",
+                    "Replica: The temple is designed to resemble the original Tirupati temple, allowing devotees who cannot travel to Tirupati to experience the same divine presence.",
+                    "Architecture: The temple is built on 5.5 acres of land and is designed so that sunlight falls directly on the foot of the idol on Vishu (around April 14th).",
+                    "The Balaji Temple in Kanyakumari is a must-visit for anyone seeking spiritual solace or interested in experiencing the architectural grandeur of South Indian temples."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/balaji-temple.jpg",
+                    "data/kanyakumari/site/balaji-temple-1.jpg",
+                    "data/kanyakumari/site/balaji-temple-2.jpg",
+                    "data/kanyakumari/site/balaji-temple-3.jpg",
+                    "data/kanyakumari/site/balaji-temple-4.jpg"
+                ],
+                "fee": []
+            },
+            {
+                "title": "Ramayan Mandir",
+                "timing":"10:00 AM - 1:00 PM, 4:00 PM - 9:00 PM",
+                "phoneNumber": "",
+                "address": "Vivekananda Kendra, Vivekanandapuram, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/H1mS5rniGEU9A8aW6",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The Ramayan Mandir, also known as Sri Ramayana Darshanam, is located in the Vivekanandapuram area of Kanyakumari, within the Vivekananda Kendra campus. This temple is dedicated to Lord Rama and showcases the Valmiki Ramayan through a pictorial exhibition.",
+                    "108 Wooden Panels: Each panel depicts an important episode from the Ramayana in the form of oil paintings. 27-Foot Granite Hanuman Statue: A magnificent statue of Lord Hanuman stands at the entrance of the temple. Exhibition: The exhibition covers episodes from Valmiki's Tapasya to Sri Rama Pattabhishekam.",
+                    "The temple is a great place to explore the rich heritage of the Ramayana and enjoy the serene environment of the Vivekananda Kendra campus."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/ramayan-mandir.jpg",
+                    "data/kanyakumari/site/ramayan-mandir-1.jpg",
+                    "data/kanyakumari/site/ramayan-mandir-2.jpg",
+                    "data/kanyakumari/site/ramayan-mandir-3.jpg",
+                    "data/kanyakumari/site/ramayan-mandir-4.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "30"},
+                    {"description": "Children", "value": "30"}
+                ]
+            },
+            {
+                "title": "Vivekananda Pictorial Exhibition",
+                "timing":"9:00 AM - 1:00 PM, 4:00 PM - 8:00 PM *",
+                "phoneNumber": "",
+                "address": "Vivekananda Kendra, Vivekanandapuram, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/VAuWtsBscthoX1xm9",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The Vivekananda Pictorial Exhibition is located at the Vivekananda Kendra in Vivekanandapuram, Kanyakumari. This unique exhibition showcases the life and contributions of Swami Vivekananda through a series of pictorial displays. It highlights his journey, teachings, and his clarion call to serve the Motherland.",
+                    "The exhibition is a popular tourist destination and a place of pilgrimage for many who seek inspiration from Vivekananda's teachings. It is open to the public and offers a unique opportunity to learn about the life and legacy of this influential figure.",
+                    "Pictorial Displays: The exhibition features numerous panels depicting significant moments from Swami Vivekananda's life",
+                    "Educational Value: It provides insights into his philosophy and his impact on India's cultural and spiritual heritage.",
+                    "* Closed on Tuesday afternoon."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/vivekananda pictorial exhibition.jpg",
+                    "data/kanyakumari/site/vivekananda pictorial exhibition-1.jpg",
+                    "data/kanyakumari/site/vivekananda pictorial exhibition-2.jpg",
+                    "data/kanyakumari/site/vivekananda pictorial exhibition-3.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "30"},
+                    {"description": "Children", "value": "30"}
+                ]
+            },
+            {
+                "title": "Eco Park",
+                "timing":"10:00 AM - 6:00 PM, Closed on Monday",
+                "phoneNumber": "",
+                "address": "Main Road, Pazhathottam, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/qBcQ5sFLvfmYYKSM8",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The Kanyakumari Eco Park is a beautiful and serene spot located in Kanyakumari, Tamil Nadu. Spread over an area of 5 acres, the park is a perfect place for nature lovers and those looking to relax and enjoy the natural beauty.",
+                    "Themed Gardens: The park includes various themed gardens such as a flower garden, herb garden, and butterfly garden.",
+                    "Children's Play Area: There are fun rides and games for kids to enjoy.",
+                    "Natural Landscapes: The park is home to over 200 different types of plants and offers a peaceful environment for visitors.",
+                    "Recreational Facilities: The park has outdoor seating, a waterfall, and a small wooden bridge.",
+                    "The park is a great place to spend a relaxing day, surrounded by nature and beautiful gardens."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/eco-park.jpg",
+                    "data/kanyakumari/site/eco-park-1.jpg",
+                    "data/kanyakumari/site/eco-park-2.jpg",
+                    "data/kanyakumari/site/eco-park-3.jpg",
+                    "data/kanyakumari/site/eco-park-4.jpg",
+                    "data/kanyakumari/site/eco-park-5.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "20"},
+                    {"description": "Children", "value": "10"}
+                ]
+            },
+            {
+                "title": "Vattakottai Fort",
+                "timing":"8:00 AM - 5:00 PM",
+                "phoneNumber": "",
+                "address": "Vattakkottai Fort Rd, Vattakkottai",
+                "locationUrl": "https://maps.app.goo.gl/AD2DZU9x1F3zR1G27",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "Vattakottai Fort, also known as the Circular Fort, is a historic seaside fort located about 7 km from Kanyakumari, Tamil Nadu. Built in the 18th century during the reign of the Travancore kingdom, it served as a coastal defense fortification.",
+                    "Architecture: The fort is rectangular in shape, surrounded by strong walls that are 25-26 feet high. It includes watch towers, weapon rooms, and other sections",
+                    "Historical Significance: Constructed under the supervision of Captain Eustachius De Lannoy, it was one of the last seaside forts built by the Travancore kingdom",
+                    "Scenic Views: The fort offers stunning views of the ocean and the Western Ghats. It's also known for the nearby black sand beaches",
+                    "Restoration: The fort has been restored and developed as a tourist attraction, preserving its historical importance"
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/vattakottai fort.jpg",
+                    "data/kanyakumari/site/vattakottai fort-1.jpg",
+                    "data/kanyakumari/site/vattakottai fort-2.jpg",
+                    "data/kanyakumari/site/vattakottai fort-3.jpg",
+                    "data/kanyakumari/site/vattakottai fort-4.jpg",
+                    "data/kanyakumari/site/vattakottai fort-5.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "25"},
+                    {"description": "Children", "value": "10"}
+                ]
+            }
+        ]
+    },
+    "restaurants": {
+        "details" : [
+            {
+                "title": "Sea View Restaurant",
+                "type": "Veg | Non Veg",
+                "phoneNumber": "+91 4652247841",
+                "address": "East Car Street, Next to Hotel Seaface, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/qAY2wmjhXbkAy6Zy6"
+            },
+            {
+                "title": "Wine & Dine Restaurant",
+                "type": "Veg | Non Veg",
+                "phoneNumber": "+91 9994121088",
+                "address": "6/61h, Beach Road, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/HcA5YucdfjJAntY28"
+            }
+        ]
+    },
+    "accommodation": {
+        "details" : [
+            {
+                "title": "Hotel Tamil Nadu",
+                "phoneNumber": "+91 9176995850",
+                "address": "Light House Main Road, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/Y3me5qFyiaMp2xkd8", 
+                "description": [
+                    "Hotel Tamil Nadu is a well-known establishment managed by the Tamil Nadu Tourism Development Corporation (TTDC), located in Kanyakumari",
+                    "Amenities: The hotel offers a range of amenities including a garden, free private parking, a shared lounge, a terrace, a restaurant serving American and Indian cuisine, and free Wi-Fi.",
+                    "Rooms: The hotel provides various room types such as Double Rooms (Non AC and AC), Super Deluxe Cottages, and Family Rooms, all with beautiful sea views.",
+                    "Services: Services include 24/7 front desk, airport transfers, room service, and laundry services."
+                ],
+                "images": ["data/kanyakumari/stay/hotel-tamil-nadu.jpg"]
+            },
+            {
+                "title": "Hotel Singaar International",
+                "phoneNumber": "+91 9443312147",
+                "address": "5/22, Main Road, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/X1MifTSBy4LXYWUt9",
+                "description": [
+                    "Hotel Singaar International is a well-known 3-star hotel located in Kanyakumari, Tamil Nadu.",
+                    "Amenities: The hotel offers a range of amenities including a swimming pool, free Wi-Fi, a restaurant, a bar, a children's play area, a conference room, and an ayurvedic center.",
+                    "Rooms: The hotel has various room types such as Deluxe, Super Deluxe, Luxury, and King Suites, all with panoramic ocean views or city views.",
+                    "Services: Services include 24/7 front desk, room service, laundry services, taxi/car rentals, and currency exchange."
+                ],
+                "images": ["data/kanyakumari/stay/hotel-singaar-international.jpg"]
+            }
+        ]
+    },
+    "transportation": {
+        "details" : [
+            {
+                "title": "Triveni Tourers Travels",
+                "phoneNumber": "+91 9443246184",
+                "address": "2/18A3, South Car Street",
+                "locationUrl": "https://maps.app.goo.gl/94sdTU8KuV7uBuoU9",
+                "services": "Cabs | Buses | Train | Flight | Hotel"
+            },
+            {
+                "title": "Nanthu Travels",
+                "phoneNumber": "+91 8903248789",
+                "address": "2/39 Middle Street, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/mRURyDvfJ7JrA4U68",
+                "services": "Cabs | Buses | Train | Flight | Hotel"
+            },
+            {
+                "title": "Kumari Tours & Travels",
+                "phoneNumber": "+91 8870801019",
+                "address": "South Car Street, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/ZmDUE9rS9HinHasy5",
+                "services": "Cabs | Buses | Train | Flight | Hotel"
+            }
+        ]
+    }
+}
