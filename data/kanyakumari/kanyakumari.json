@@ -5,18 +5,17 @@
     "locationUrl": "https://maps.app.goo.gl/Uv3rLSCf2X5Ztnq57",
     "image": "data/kanyakumari/site/kanyakumari.jpg",
     "bestTimeToVisit": "The perfect time to experience Kanniyakumari is from November to March as the weather would be cool and pleasant. Summers can be really hot as the destination has a tropical climate.",
-    "updatedOn": "15/12/2024",
+    "updatedOn": "28/12/2024",
     "connectivity": {
-        "bus": "Kanyakumari Bus Station, about 1 km away.",
-        "train": "Kanyakumari Train Station, about 1.3 km away.",
-        "flight": "Thiruvananthapuram International Airport, about 90 km away."
+        "bus": "Kanyakumari Bus Station, in Kanyakumari town.",
+        "train": "Kanyakumari Railway Station, in Kanyakumari town.",
+        "flight": "Thiruvananthapuram International Airport, about 90 KM away."
     },
     "attractions": {
         "details": [
             {
                 "title": "Sunrise",
                 "timing":"6:00 AM",
-                "phoneNumber": "",
                 "address": "Near Bhagavathi Amman Temple, Kanyakumari",
                 "locationUrl": "https://maps.app.goo.gl/8wHFvP94BCEoHjH56",
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
@@ -38,7 +37,6 @@
             {
                 "title": "Sunset",
                 "timing":"6:00 PM",
-                "phoneNumber": "",
                 "address": "Beach Road, Kanyakumari",
                 "locationUrl": "https://maps.app.goo.gl/FNRQVTeV9W6ujGFt9",
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
@@ -61,7 +59,6 @@
             {
                 "title": "Triveni Sangamam",
                 "timing":"6:00 AM - 10:00 PM",
-                "phoneNumber": "",
                 "address": "Near the Bhagavathi Amman Temple, Kanyakumari",
                 "locationUrl": "https://maps.app.goo.gl/Px3h7PHsq2g8RC4V6",
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
@@ -81,7 +78,6 @@
             {
                 "title": "Vivekananda Rock Memorial",
                 "timing":"8:00 AM - 4:00 PM",
-                "phoneNumber": "",
                 "address": "Kanyakumari",
                 "locationUrl": "https://maps.app.goo.gl/dq1nACSqKZyCqw4z8",
                 "amenities": ["local_parking", "shopping_bag", "wc"],
@@ -108,7 +104,6 @@
             {
                 "title": "Bhagavathi Amman Temple",
                 "timing":"4:30 AM - 12:30 PM, 4:00 PM - 8:00 PM",
-                "phoneNumber": "+91 4652246223",
                 "address": "Sannathy Street, Kanyakumari",
                 "locationUrl": "https://maps.app.goo.gl/pYeAuhRomGo87nxY8",
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
@@ -131,7 +126,6 @@
             {
                 "title": "Gandhi Mandapam",
                 "timing":"7:30 AM - 7:00 PM",
-                "phoneNumber": "",
                 "address": "Beach Road, Kanyakumari",
                 "locationUrl": "",
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
@@ -151,7 +145,6 @@
             {
                 "title": "Kamarajar Manimandapam",
                 "timing":"7:00 AM - 7:00 PM",
-                "phoneNumber": "",
                 "address": "Beach Road, Kanyakumari",
                 "locationUrl": "",
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
@@ -171,7 +164,6 @@
             {
                 "title": "Thiruvalluvar Statue",
                 "timing":"8:00 AM - 4:00 PM",
-                "phoneNumber": "",
                 "address": "Kanyakumari",
                 "locationUrl": "https://maps.app.goo.gl/wPSEQ3LvDsYKQcR16",
                 "amenities": ["local_parking", "shopping_bag", "wc"],
@@ -194,7 +186,6 @@
             {
                 "title": "Kanyakumari Beach",
                 "timing":"5:00 AM - 10:00 PM",
-                "phoneNumber": "",
                 "address": "Kanyakumari",
                 "locationUrl": "https://maps.app.goo.gl/7EgaPTidJRE9JTCw7",
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
@@ -216,7 +207,6 @@
             {
                 "title": "Sunset Point",
                 "timing":"6:00 AM - 10:00 PM",
-                "phoneNumber": "",
                 "address": "Kovalam, Kanyakumari",
                 "locationUrl": "https://maps.app.goo.gl/bQQoBgKUdAdXZ8Tb8",
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
@@ -237,7 +227,6 @@
             {
                 "title": "View Tower",
                 "timing":"5:00 AM - 7:00 PM",
-                "phoneNumber": "",
                 "address": "Beach Road, Kanyakumari",
                 "locationUrl": "https://maps.app.goo.gl/co25MjP1f4iBPQq49",
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
@@ -260,7 +249,6 @@
             {
                 "title": "Balaji Temple",
                 "timing":"4:00 AM - 8:00 PM",
-                "phoneNumber": "",
                 "address": "Harbour Road, Kanyakumari",
                 "locationUrl": "https://maps.app.goo.gl/Y3hnTNi7fhJBUpuF9",
                 "amenities": ["local_parking", "wc"],
@@ -283,7 +271,6 @@
             {
                 "title": "Ramayan Mandir",
                 "timing":"10:00 AM - 1:00 PM, 4:00 PM - 9:00 PM",
-                "phoneNumber": "",
                 "address": "Vivekananda Kendra, Vivekanandapuram, Kanyakumari",
                 "locationUrl": "https://maps.app.goo.gl/H1mS5rniGEU9A8aW6",
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
@@ -307,7 +294,6 @@
             {
                 "title": "Vivekananda Pictorial Exhibition",
                 "timing":"9:00 AM - 1:00 PM, 4:00 PM - 8:00 PM *",
-                "phoneNumber": "",
                 "address": "Vivekananda Kendra, Vivekanandapuram, Kanyakumari",
                 "locationUrl": "https://maps.app.goo.gl/VAuWtsBscthoX1xm9",
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
@@ -332,7 +318,6 @@
             {
                 "title": "Eco Park",
                 "timing":"10:00 AM - 6:00 PM, Closed on Monday",
-                "phoneNumber": "",
                 "address": "Main Road, Pazhathottam, Kanyakumari",
                 "locationUrl": "https://maps.app.goo.gl/qBcQ5sFLvfmYYKSM8",
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
@@ -360,7 +345,6 @@
             {
                 "title": "Vattakottai Fort",
                 "timing":"8:00 AM - 5:00 PM",
-                "phoneNumber": "",
                 "address": "Vattakkottai Fort Rd, Vattakkottai",
                 "locationUrl": "https://maps.app.goo.gl/AD2DZU9x1F3zR1G27",
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
@@ -387,7 +371,6 @@
             {
                 "title": "Musical Fountain",
                 "timing":"6:00 PM - 9:00 PM",
-                "phoneNumber": "",
                 "address": "No 9, NH 44, Kanyakumari",
                 "locationUrl": "https://maps.app.goo.gl/raLQ5N9WBt3GBBXK9",
                 "amenities": ["local_parking", "local_dining", "wc"],
@@ -411,7 +394,6 @@
             {
                 "title": "Wax Museum",
                 "timing":"8:00 AM - 6:30 PM",
-                "phoneNumber": "",
                 "address": "Main Road, Near Railway Station, Kanyakumari",
                 "locationUrl": "https://maps.app.goo.gl/jSHxhM34mReuT4eFA",
                 "amenities": ["local_parking", "local_dining", "wc"],
@@ -436,7 +418,6 @@
             {
                 "title": "Murugan Kundram Temple",
                 "timing":"6:00 AM - 12:00 PM, 4:00 PM - 8:00 PM",
-                "phoneNumber": "",
                 "address": "NH 44, Kanyakumari",
                 "locationUrl": "https://maps.app.goo.gl/VSbXA5CHUz8ca5df8",
                 "amenities": ["local_parking", "wc"],
@@ -456,7 +437,6 @@
             {
                 "title": "Thanumalayan Temple",
                 "timing":"4:30 AM - 12:30 PM, 4:00 PM - 8:00 PM",
-                "phoneNumber": "",
                 "address": "Suchindram, Kanyakumari",
                 "locationUrl": "https://maps.app.goo.gl/Ph9KwkZw91QpZqqk9",
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
@@ -477,9 +457,30 @@
                 "fee": []
             },
             {
+                "title": "Sothavilai Beach",
+                "timing":"6:00 AM - 7:00 PM",
+                "address": "Sothavilai, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/A5s1q7GY4c5gW48B6",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "Sothavilai Beach or Chothavilai Beach is one of the longest natural sandy beaches in Tamil Nadu, stretching over 4 kilometers. Located in the Kanyakumari district, it's a serene and picturesque spot, perfect for a peaceful getaway",
+                    "Scenic Beauty: The beach is known for its golden sands and shallow waters, making it ideal for swimming and beach sports.",
+                    "Clean Environment: It's a relatively clean and less crowded beach, offering a tranquil atmosphere.",
+                    "Safety: While the beach is beautiful, visitors should be cautious of the strong waves, especially during high tide."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/sothavilai-beach.jpg",
+                    "data/kanyakumari/site/sothavilai-beach-1.jpg",
+                    "data/kanyakumari/site/sothavilai-beach-2.jpg",
+                    "data/kanyakumari/site/sothavilai-beach-3.jpg",
+                    "data/kanyakumari/site/sothavilai-beach-4.jpg",
+                    "data/kanyakumari/site/sothavilai-beach-5.jpg"
+                ],
+                "fee": []
+            },
+            {
                 "title": "Padmanabhapuram Palace",
                 "timing":"9:00 AM - 1:00 PM, 2:00 PM - 4:30 PM *",
-                "phoneNumber": "",
                 "address": "Padmanabhapuram, Thuckalay",
                 "locationUrl": "https://maps.app.goo.gl/dWSr5LgMMCBnk3Zt5",
                 "amenities": ["local_dining", "shopping_bag", "wc"],
@@ -510,7 +511,6 @@
             {
                 "title": "Mathoor Hanging Bridge",
                 "timing":"6:00 AM - 6:00 PM",
-                "phoneNumber": "",
                 "address": "Thottipalam Road, Kalkulam",
                 "locationUrl": "https://maps.app.goo.gl/F8dM2FzRn9tAccgJA",
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
@@ -531,7 +531,6 @@
             {
                 "title": "Thirparappu Falls",
                 "timing":"6:00 AM - 6:00 PM",
-                "phoneNumber": "",
                 "address": "Thiruparappu, Kuzhithurai",
                 "locationUrl": "https://maps.app.goo.gl/R9ob91yBxau7nYao6",
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
@@ -549,9 +548,9 @@
                     "data/kanyakumari/site/thirparappu-falls-5.jpg"
                 ],
                 "fee": [
-                    {"description": "Adult", "value": "5"},
-                    {"description": "Children", "value": "5"},
-                    {"description": "Camera", "value": "75"}
+                    {"description": "Adult", "value": "10"},
+                    {"description": "Children", "value": "10"},
+                    {"description": "Boating", "value": "50"}
                 ]
             }
         ]

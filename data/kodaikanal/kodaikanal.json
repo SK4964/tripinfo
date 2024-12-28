@@ -1,0 +1,189 @@
+{
+    "title": "Kodaikanal",
+    "subTitle": "Tamil Nadu, India",
+    "description": "Kodaikanal, often referred to as the Princess of Hill Stations, is a charming hill station located in the Palani Hills of the Western Ghats in Tamil Nadu. Established in 1845 by British bureaucrats, it has since become a popular retreat for those seeking respite from the heat of the plains. Kodaikanal is known for its lush greenery, mist-covered hills, and picturesque lakes.",
+    "locationUrl": "https://maps.app.goo.gl/YrbMu4hheRv8kGRd9",
+    "image": "data/kodaikanal/site/kodaikanal.jpg",
+    "bestTimeToVisit": "The perfect time to experience Kodaikanal is from March to May and September to November. The weather is generally pleasant throughout the year.",
+    "updatedOn": "28/12/2024",
+    "connectivity": {
+        "bus": "Kodaikanal Bus Station, in Kodaikanal town.",
+        "train": "Kodai Road Railway Station, about 80 KM away.",
+        "flight": "Madurai International Airport, about 115 KM away."
+    },
+    "attractions": {
+        "details": [
+            {
+                "title": "Kodaikanal Lake",
+                "timing":"6:00 AM - 5:00 PM",
+                "address": "Lake Road, Kodaikanal",
+                "locationUrl": "https://maps.app.goo.gl/MmvbZ2paaVh92j918",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "Kodaikanal Lake is a star-shaped man-made lake and one of the main attractions in Kodaikanal, Tamil Nadu. It was created in 1863 by Sir Vere Henry Levinge, the then Collector of Madurai, and has since become the heart of the town.",
+                    "Boating: The lake offers various boating options, including rowboats, pedal boats, and motorboats, making it a popular activity for visitors.",
+                    "Cycling and Walking: The 5-kilometer path around the lake is perfect for cycling, walking, and horse riding, providing scenic views of the surrounding hills and greenery."
+                ],                        
+                "images": [
+                    "data/kodaikanal/site/kodaikanal-lake.jpg",
+                    "data/kodaikanal/site/kodaikanal-lake-1.jpg",
+                    "data/kodaikanal/site/kodaikanal-lake-2.jpg",
+                    "data/kodaikanal/site/kodaikanal-lake-3.jpg",
+                    "data/kodaikanal/site/kodaikanal-lake-4.jpg"
+                ],
+                "fee": []
+            },
+            {
+                "title": "Bryant Park",
+                "timing":"9:00 AM - 6:00 PM",
+                "address": "Near Lake, Kodaikanal",
+                "locationUrl": "https://maps.app.goo.gl/VSxpNM2wiYuiViRKA",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "Bryant Park is a beautifully landscaped botanical garden located near Kodaikanal Lake in Kodaikanal, Tamil Nadu. Established in 1908 by H.D. Bryant, a forest officer from Madurai, this park is a must-visit for nature enthusiasts and those looking to enjoy the serene environment.",
+                    "Floral Displays: The park boasts a wide variety of flowers, plants, and trees, including exotic species. Glasshouse: A stunning glasshouse filled with vibrant flowers and plants, often used for horticultural shows.",
+                    "Rose Garden: A dedicated section showcasing different varieties of roses. Botanical Diversity: The park is home to over 325 species of trees, shrubs, and cacti.",
+                    "Annual Flower Show: Held every May, the flower show attracts visitors from all over with its beautiful displays and competitions.",
+                    "Bryant Park is an excellent place to unwind, take leisurely walks, and appreciate the beauty of nature."
+                ],                        
+                "images": [
+                    "data/kodaikanal/site/bryant-park.jpg",
+                    "data/kodaikanal/site/bryant-park-1.jpg",
+                    "data/kodaikanal/site/bryant-park-2.jpg",
+                    "data/kodaikanal/site/bryant-park-3.jpg",
+                    "data/kodaikanal/site/bryant-park-4.jpg",
+                    "data/kodaikanal/site/bryant-park-5.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "30"},
+                    {"description": "Children", "value": "15"}
+                ]
+            },
+            {
+                "title": "Coaker's Walk",
+                "timing":"7:00 AM - 7:00 PM",
+                "address": "Near Bryant Park, Kodaikanal",
+                "locationUrl": "https://maps.app.goo.gl/6WFgALKiRDhJsvER7",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "Coaker's Walk is a beautiful and scenic pedestrian path located on the slopes of Kodaikanal, offering stunning views of the valleys and mountains. It was constructed in 1872 by Lt. Coaker and has since become one of the most popular attractions in Kodaikanal.",
+                    "Length: Approximately 1 kilometer. Viewpoints: The path provides several viewpoints where you can see the rolling hills, green valleys, and even the distant plains on a clear day.",
+                    "Telescopic View: There is a telescope house along the walk that allows visitors to get a closer view of the surrounding landscapes.",
+                    "Sunrise and Sunset: Coaker's Walk is an ideal spot to witness the sunrise and sunset, with the golden hues casting a magical glow over the landscape."
+                ],                        
+                "images": [
+                    "data/kodaikanal/site/coakers-walk.jpg",
+                    "data/kodaikanal/site/coakers-walk-1.jpg",
+                    "data/kodaikanal/site/coakers-walk-2.jpg",
+                    "data/kodaikanal/site/coakers-walk-3.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "10"},
+                    {"description": "Children", "value": "5"}
+                ]
+            },
+            {
+                "title": "Guna Caves",
+                "timing":"9:00 AM - 5:00 PM",
+                "address": "Pillar Rocks Road, Kodaikanal",
+                "locationUrl": "https://maps.app.goo.gl/HP2LitVDdFCgNfju5",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The Guna Caves, also known as Devil's Kitchen, are a fascinating natural wonder located in Kodaikanal, Tamil Nadu. These caves are nestled between the Pillar Rocks and are known for their mysterious and eerie atmosphere.",
+                    "History: The caves were discovered in 1821 by British officer B.S. Ward and were initially named Devil's Kitchen due to local folklore. They gained widespread fame after featuring in the Tamil film Gunaa starring Kamal Haasan in 1991",
+                    "Dangerous Reputation: The caves are notorious for their deep crevices and dangerous holes, leading to several mysterious disappearances over the years. As a result, the entrance to the caves has been sealed off for safety.",
+                    "Scenic Views: Despite the restrictions, the area around the caves offers stunning views of the Pillar Rocks and lush greenery, making it a popular spot for visitors."
+                ],                        
+                "images": [
+                    "data/kodaikanal/site/guna-caves.jpg",
+                    "data/kodaikanal/site/guna-caves-1.jpg",
+                    "data/kodaikanal/site/guna-caves-2.jpg",
+                    "data/kodaikanal/site/guna-caves-3.jpg",
+                    "data/kodaikanal/site/guna-caves-4.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "10"},
+                    {"description": "Children", "value": "10"}
+                ]
+            },
+            {
+                "title": "Pillar Rocks",
+                "timing":"9:00 AM - 5:00 PM",
+                "address": "Pillar Rocks Road, Kodaikanal",
+                "locationUrl": "https://maps.app.goo.gl/msm6tZVHRvUDYURk9",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "Pillar Rocks is one of Kodaikanal's most iconic and picturesque attractions. These three vertically positioned granite boulders stand majestically, offering stunning views of the surrounding landscape.",
+                    "Height: Each rock pillar stands around 400 feet tall. Scenic Views: The area provides panoramic views of the lush green valleys and hills, especially beautiful during sunrise and sunset.",
+                    "Gardens: There is a small garden nearby, adding to the scenic beauty and providing a pleasant spot for picnics. Mystical Surroundings: The rocks are often shrouded in mist, creating an enchanting and mysterious atmosphere.",
+                    "The Pillar Rocks offer a great spot for photography, leisurely walks, and simply enjoying the natural beauty of Kodaikanal."
+                ],                        
+                "images": [
+                    "data/kodaikanal/site/pillar-rock.jpg",
+                    "data/kodaikanal/site/pillar-rock-1.jpg",
+                    "data/kodaikanal/site/pillar-rock-2.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "10"},
+                    {"description": "Children", "value": "10"}
+                ]
+            },
+            {
+                "title": "Pine Forest",
+                "timing":"9:00 AM - 5:00 PM",
+                "address": "Ten Mile Road, Kodaikanal",
+                "locationUrl": "https://maps.app.goo.gl/rLcJjTvvEGRuiG7V6",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The Pine Forest in Kodaikanal is a serene and picturesque destination, known for its lush greenery and tranquil atmosphere. Located in the southwestern part of Kodaikanal, this forest is home to hundreds of tall, majestic pine trees that create a beautiful, natural canopy.",
+                    "Scenic Beauty: The forest offers a peaceful environment with the soothing sounds of nature, making it an ideal spot for long walks and relaxation.",
+                    "Photography: With its dense pine trees and scenic views, the Pine Forest is a favorite location for photographers and filmmakers.",
+                    "Horse Riding: You can enjoy horse riding along the trails within the forest, adding to the adventure. Magic Mushrooms: The forest is also known for its vegetation of mushrooms, often referred to as magic mushrooms though they are not for consumption."
+                ],                        
+                "images": [
+                    "data/kodaikanal/site/pine-forest.jpg",
+                    "data/kodaikanal/site/pine-forest-1.jpg",
+                    "data/kodaikanal/site/pine-forest-2.jpg",
+                    "data/kodaikanal/site/pine-forest-3.jpg",
+                    "data/kodaikanal/site/pine-forest-4.jpg"
+                ],
+                "fee": []
+            },
+            {
+                "title": "Moir Point",
+                "timing":"9:00 AM - 5:00 PM",
+                "address": "Ten Mile Road, Kodaikanal",
+                "locationUrl": "https://maps.app.goo.gl/9HGNecwX47iDQKbGA",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "Moir Point is a popular viewpoint in Kodaikanal, offering breathtaking views of the surrounding hills and valleys. It is named after Sir Thomas Moir, who constructed the Goschen Road in 1929. The point is located on the way to Berijam Lake and is a favorite spot for tourists and nature lovers.",
+                    "Scenic Views: The viewpoint provides panoramic views of the highest peaks around Kodaikanal, making it a perfect spot for photography.",
+                    "Historical Significance: A monument at Moir Point commemorates Sir Thomas Moir and the construction of the Goschen Road. The area is peaceful and ideal for relaxing and enjoying the natural beauty."
+                ],                        
+                "images": [
+                    "data/kodaikanal/site/moir-point.jpg",
+                    "data/kodaikanal/site/moir-point-1.jpg",
+                    "data/kodaikanal/site/moir-point-2.jpg",
+                    "data/kodaikanal/site/moir-point-3.jpg"
+
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "10"},
+                    {"description": "Children", "value": "10"}
+                ]
+            }
+        ]
+    },
+    "restaurants": {
+        "details" : [
+        ]
+    },
+    "accommodation": {
+        "details" : [
+        ]
+    },
+    "transportation": {
+        "details" : [
+        ]
+    }
+}
