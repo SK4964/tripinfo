@@ -1,4 +1,4 @@
 [
-    {"type": "site", "priority": 10, "attraction": "kanyakumari", "name": "Musical Fountain"},
-    {"type": "site", "priority": 10, "attraction": "kanyakumari", "name": "Wax Museum"}
+    {"title": "Musical Fountain", "link": "Kanyakumari", "type": "site", "image": "data/kanyakumari/site/musical-fountain.jpg"},
+    {"title": "Wax Museum", "link": "Kanyakumari", "type": "site", "image": "data/kanyakumari/site/wax-museum.jpg"}
 ]
