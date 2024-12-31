@@ -1,0 +1,241 @@
+{
+    "title": "Ooty",
+    "subTitle": "Tamil Nadu, India",
+    "description": "Ooty, also known as Udhagamandalam, is a charming hill station located in the Nilgiri district of Tamil Nadu, India. It's often referred to as the Queen of Hill Stations due to its picturesque landscapes, cool climate, and beautiful gardens. Ooty is known for its lush greenery, misty hills, and beautiful lakes. It's often called the Switzerland of India because of its resemblance to the Swiss countryside.",
+    "locationUrl": "https://maps.app.goo.gl/DWAG8dBqWYZvDBH37",
+    "image": "data/ooty/site/ooty.jpg",
+    "bestTimeToVisit": "Although Ooty can be visited and explored any time of the year, the best is the summer months between March and June. The weather is generally pleasant throughout the year.",
+    "updatedOn": "31/12/2024",
+    "connectivity": {
+        "bus": "Ooty Bus Station, in Kodaikanal town.",
+        "train": "Coimbatore Railway Station, about 87 KM away.",
+        "flight": "Coimbatore International Airport, about 88 KM away."
+    },
+    "attractions": {
+        "details": [
+            {
+                "title": "Ooty Lake",
+                "timing":"6:00 AM - 6:00 PM",
+                "address": "Lake Road, Ooty",
+                "locationUrl": "https://maps.app.goo.gl/TM5qC53avVcwEdZWA",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "Ooty Lake is a beautiful artificial lake located near Ooty in the Nilgiris district of Tamil Nadu, India. The lake was constructed by John Sullivan in 1824 by damming the water flowing down mountain streams in the Ooty valley. It was originally intended for fishing and transportation across the lake.",
+                    "The lake covers an area of about 26 hectares (64 acres). One of the main attractions at Ooty Lake is boating. The Tamil Nadu Tourism Development Corporation operates a boathouse offering various boating options, including paddle boats, row boats, and motorboats1.",
+                    "The lake is surrounded by eucalyptus trees and greenery, making it a picturesque spot for visitors. There's also a mini-train, an amusement park, and pony rides available for added fun.",
+                    "During the summer season, boat races and boat pageantry are organized as part of the Summer Festival in Ooty. It's a lovely place to spend a day, especially if you enjoy nature and outdoor activities."
+                ],                        
+                "images": [
+                    "data/ooty/site/ooty-lake.jpg",
+                    "data/ooty/site/ooty-lake-1.jpg",
+                    "data/ooty/site/ooty-lake-2.jpg",
+                    "data/ooty/site/ooty-lake-3.jpg",
+                    "data/ooty/site/ooty-lake-4.jpg"
+                ],
+                "fee": []
+            },
+            {
+                "title": "Botanical Garden",
+                "timing":"7:00 AM - 6:30 PM",
+                "address": "Vannarapettai, Ooty",
+                "locationUrl": "https://maps.app.goo.gl/j6BNksZke6V7fU729",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The Government Botanical Garden in Ooty is a botanical wonderland located on the slopes of the Doddabetta peak. Established in 1847, the garden was initially laid out by the Marquis of Tweedale. It has grown over the years to become one of the most well-maintained gardens in India.",
+                    "Spread over 55 acres, the garden is divided into several sections, including Lower Garden, New Garden, Italian Garden, Conservatory, and Nurseries.",
+                    "The garden is home to an incredible variety of plants, trees, and flowers. It boasts over 650 species of plants, including exotic and indigenous species. Some highlights include the cork tree, the paper bark tree, the monkey puzzle tree, and a 20 million-year-old fossilized tree trunk.",
+                    "One of the most popular events, the Annual Flower Show, is held in May. It features an array of beautifully arranged flowers and attracts visitors from all over. Besides the stunning plant collection, the garden also features well-manicured lawns, ponds with lilies, fountains, and a variety of orchids and ferns.",
+                    "The Botanical Garden is a perfect place for a leisurely stroll, a picnic, or just to admire the diverse plant life."
+                ],                        
+                "images": [
+                    "data/ooty/site/botanical-garden.jpg",
+                    "data/ooty/site/botanical-garden-1.jpg",
+                    "data/ooty/site/botanical-garden-2.jpg",
+                    "data/ooty/site/botanical-garden-3.jpg",
+                    "data/ooty/site/botanical-garden-4.jpg",
+                    "data/ooty/site/botanical-garden-5.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "100"},
+                    {"description": "Children", "value": "50"}                ]
+            },
+            {
+                "title": "Pine Forest",
+                "timing":"8:00 AM - 6:00 PM",
+                "address": "NH 181, Near Shooting Spot, Ooty",
+                "locationUrl": "https://maps.app.goo.gl/bf79rCTVZSx6kHxt5",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The Pine Forest near Ooty is a beautiful, serene place that attracts nature lovers and photographers alike. The forest is characterized by tall, majestic pine trees that create a stunning landscape. The tall trees form a canopy that allows sunlight to filter through, creating a magical atmosphere.",
+                    "The Pine Forest is situated between Ooty and Thalakunda, and it is easily accessible by road. It's a popular stop for tourists traveling to or from Ooty.",
+                    "It's a great spot for a peaceful walk, photography, or simply enjoying the tranquility of nature. The forest has been the backdrop for many Indian films due to its picturesque setting.",
+                    "Whether you're looking to take a leisurely stroll, capture some beautiful photographs, or just unwind in the lap of nature, the Pine Forest is a must-visit spot near Ooty."
+                ],                        
+                "images": [
+                    "data/ooty/site/pine-forest.jpg",
+                    "data/ooty/site/pine-forest-1.jpg",
+                    "data/ooty/site/pine-forest-2.jpg",
+                    "data/ooty/site/pine-forest-3.jpg",
+                    "data/ooty/site/pine-forest-4.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "30"},
+                    {"description": "Children", "value": "30"}
+                ]
+            },
+            {
+                "title": "Doddabetta Peak",
+                "timing":"7:00 AM - 5:00 PM",
+                "address": "Doddabetta, Ooty",
+                "locationUrl": "https://maps.app.goo.gl/HAwpRXnKdSFVM46o9",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "Doddabetta Peak is the highest peak in the Nilgiri Hills at an elevation of 2,637 meters (8,650 feet) and is a popular tourist destination in Ooty. The peak offers breathtaking panoramic views of the surrounding hills, valleys, and forests. On a clear day, you can even see the distant plains of Coimbatore and the highlands of Mysore.",
+                    "At the summit, there's an observatory with two telescopes, managed by the Tamil Nadu Tourism Development Corporation. Visitors can use these telescopes to get a closer look at the scenic beauty around.",
+                    "The area around Doddabetta is great for trekking. The trek to the peak takes you through lush forests filled with rhododendron, pine, and eucalyptus trees. The rich biodiversity of the area is a delight for nature enthusiasts. You'll find a variety of native plants and the chance to spot some local wildlife.",
+                    "Whether you're an adventure seeker, a nature lover, or simply someone who enjoys stunning vistas, Doddabetta Peak has something to offer."
+                ],                        
+                "images": [
+                    "data/ooty/site/doddabetta-peak.jpg",
+                    "data/ooty/site/doddabetta-peak-1.jpg",
+                    "data/ooty/site/doddabetta-peak-2.jpg",
+                    "data/ooty/site/doddabetta-peak-3.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "10"},
+                    {"description": "Children", "value": "10"}
+                ]
+            },
+            {
+                "title": "Rose Garden",
+                "timing":"7:00 AM - 6:30 PM",
+                "address": "Davisdale, Ooty",
+                "locationUrl": "https://maps.app.goo.gl/CWPiXL341JXWHxbn8",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The Government Rose Garden in Ooty is a breathtaking attraction and one of the largest rose gardens in India. Situated on the slopes of Elk Hill, the garden covers an area of around 10 acres. The garden boasts over 20,000 varieties of roses, including hybrid tea roses, floribunda roses, ramblers, and miniature roses. It's a paradise for rose enthusiasts.",
+                    "The garden is beautifully designed with terraces, pathways, and pergolas, making it a great place for a leisurely stroll. Each section is meticulously maintained, and the vibrant colors of the roses create a stunning visual experience.", 
+                    "The garden has received numerous awards for its exceptional collection and maintenance. It is recognized by the World Federation of Rose Societies (WFRS) and has won the Garden of Excellence Award. The best time to visit the Rose Garden is between March and June when the roses are in full bloom. The Summer Festival, held in May, features the Annual Flower Show, which showcases a magnificent display of roses and other flowers.",
+                    "Whether you're a passionate gardener, a photography enthusiast, or simply someone who appreciates natural beauty, the Rose Garden is a must-visit."
+                ],                        
+                "images": [
+                    "data/ooty/site/rose-garden.jpg",
+                    "data/ooty/site/rose-garden-1.jpg",
+                    "data/ooty/site/rose-garden-2.jpg",
+                    "data/ooty/site/rose-garden-3.jpg",
+                    "data/ooty/site/rose-garden-4.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "75"},
+                    {"description": "Children", "value": "40"}
+                ]
+            },
+            {
+                "title": "Siri Horticulture Garden",
+                "timing":"7:00 AM - 7:00 PM",
+                "address": "Fern Hill, Ooty",
+                "locationUrl": "https://maps.app.goo.gl/8Q8k3GzvKf89QsXd7",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The Karnataka Siri Horticulture Garden in Ooty is a delightful place to explore. Located on Fern Hill, this garden is a must-visit for anyone who loves vibrant flowers and beautifully designed landscapes. Spread over 38 acres, the garden is divided into several sections including the Rose Garden, Italian Garden, Tea Garden, Maze Garden, Sunken Garden, and Topiary Garden.",
+                    "With over 50,000 pots of colorful and diverse flowers, the garden is a feast for the eyes. The garden features a Maple Tree Avenue, a dedicated Orchid Zone, a separate section for herbs, and stunning topiary art.",
+                    "The Winter Flower Show is a major attraction, drawing visitors from far and wide with its impressive floral displays. It's a great spot to relax and soak in the beauty of nature."
+                ],                        
+                "images": [
+                    "data/ooty/site/siri-horticulture-garden.jpg",
+                    "data/ooty/site/siri-horticulture-garden-1.jpg",
+                    "data/ooty/site/siri-horticulture-garden-2.jpg",
+                    "data/ooty/site/siri-horticulture-garden-3.jpg",
+                    "data/ooty/site/siri-horticulture-garden-4.jpg",
+                    "data/ooty/site/siri-horticulture-garden-5.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "75"},
+                    {"description": "Children", "value": "40"}
+                ]
+            },
+            {
+                "title": "Pykara Lake",
+                "timing":"8:30 AM - 5:00 PM",
+                "address": "Pykara, Ooty",
+                "locationUrl": "https://maps.app.goo.gl/SMmgqTw8EdbfgUAt6",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "Pykara Lake is a scenic spot located about 20 kilometers from Ooty in Tamil Nadu. The lake is formed by a dam constructed on the Pykara River, which originates from the Mukurthi peak.",
+                    "The lake is a popular spot for boating, with options for motorboats and speedboats. It's a great way to enjoy the serene surroundings and the lush greenery.",
+                    "The area around the lake is perfect for picnics, with a small cafeteria and restaurant available for visitors. It's a wonderful place to spend a day, whether you're looking to relax by the lake, enjoy a boat ride, or take a hike to the waterfalls."
+                ],                        
+                "images": [
+                    "data/ooty/site/pykara-lake.jpg",
+                    "data/ooty/site/pykara-lake-1.jpg",
+                    "data/ooty/site/pykara-lake-2.jpg",
+                    "data/ooty/site/pykara-lake-3.jpg",
+                    "data/ooty/site/pykara-lake-4.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "30"},
+                    {"description": "Children", "value": "30"}
+                ]
+            },
+            {
+                "title": "Pykara Falls",
+                "timing":"8:30 AM - 5:00 PM",
+                "address": "Pykara, Ooty",
+                "locationUrl": "https://maps.app.goo.gl/bztc4RpEXi7Am9xk8",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "Pykara Falls is a breathtaking natural attraction located near Pykara Lake, about 20 kilometers from Ooty. The falls consist of two separate cascades, one with a drop of 55 meters and the other with a drop of 61 meters. The sound of the rushing water and the sight of the falls are truly mesmerizing.",
+                    "Surrounded by lush greenery and serene landscapes, Pykara Falls is a perfect spot for nature lovers and photographers. There is a well-maintained path and a designated viewing area, making it accessible for visitors to enjoy the falls safely.",
+                    "The best time to visit Pykara Falls is during the monsoon season, from June to September, when the water flow is at its peak. It's a wonderful place to experience the beauty of nature and unwind.",
+                    "Visitors can take a walk along the trails, enjoy the scenic views, and capture stunning photographs. Boating at nearby Pykara Lake is also a popular activity."
+                ],                        
+                "images": [
+                    "data/ooty/site/pykara-falls-1.jpg",
+                    "data/ooty/site/pykara-falls-2.jpg",
+                    "data/ooty/site/pykara-falls-3.jpg",
+                    "data/ooty/site/pykara-falls-4.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "30"},
+                    {"description": "Children", "value": "30"}
+                ]
+            },
+            {
+                "title": "Sims Park",
+                "timing":"9:00 AM - 6:00 PM",
+                "address": "Coonoor, Ooty",
+                "locationUrl": "https://maps.app.goo.gl/N3cbj2HdX7P8A1g39",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "Sim's Park is actually located in Coonoor, which is near Ooty. It's a beautiful botanical garden that's perfect for a peaceful day out. The park is home to over 1,000 species of colorful and vibrant flowers, making it a paradise for nature lovers and photographers.",
+                    "Spread over 12 hectares, the park is divided into sections such as a lily pond, rose garden, boating area, and a flowering plants area. Named after the British Officer J.D. Sims, the park was established in 1847 and has been well-maintained ever since.",
+                    "Visitors can enjoy boating on the small lake, take peaceful walks, and explore the diverse ecosystem of trees and plants from around the world. The park also hosts a fruits and vegetable show organized by the Department of Horticulture, attracting thousands of visitors each year."
+                ],                        
+                "images": [
+                    "data/ooty/site/sims-park.jpg",
+                    "data/ooty/site/sims-park-1.jpg",
+                    "data/ooty/site/sims-park-2.jpg",
+                    "data/ooty/site/sims-park-3.jpg",
+                    "data/ooty/site/sims-park-4.jpg",
+                    "data/ooty/site/sims-park-5.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "75"},
+                    {"description": "Children", "value": "40"}
+                ]
+            }
+        ]
+    },
+    "restaurants": {
+        "details" : [
+        ]
+    },
+    "accommodation": {
+        "details" : [
+        ]
+    },
+    "transportation": {
+        "details" : [
+        ]
+    }
+}

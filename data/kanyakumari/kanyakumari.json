@@ -1,7 +1,7 @@
 {
     "title": "Kanyakumari",
     "subTitle": "Tamil Nadu, India",
-    "description": "Kanyakumari, also known as Cape Comorin, is the southernmost tip of the Indian mainland, located in the state of Tamil Nadu. It's a unique place where you can witness the confluence of three oceans: the Bay of Bengal, the Arabian Sea, and the Indian Ocean.",
+    "description": "Kanyakumari, also known as Cape Comorin, is the southernmost tip of the Indian mainland, located in the state of Tamil Nadu. It's a unique place where you can witness the confluence of three oceans; the Bay of Bengal, the Arabian Sea, and the Indian Ocean.",
     "locationUrl": "https://maps.app.goo.gl/Uv3rLSCf2X5Ztnq57",
     "image": "data/kanyakumari/site/kanyakumari.jpg",
     "bestTimeToVisit": "The perfect time to experience Kanniyakumari is from November to March as the weather would be cool and pleasant. Summers can be really hot as the destination has a tropical climate.",
@@ -42,10 +42,8 @@
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
                 "description": [
                     "Experiencing the sunset in Kanyakumari is just as breathtaking as the sunrise. The sight of the sun setting over the confluence of three seas is a truly magical experience. Enjoy the peaceful atmosphere and the natural beauty.",
-                    "Vivekananda Rock Memorial: If you're there in the late afternoon, you can enjoy a serene view of the sunset from this iconic landmark.",
-                    "Kanyakumari Beach: The beach is another great location to watch the sunset and enjoy the sound of the waves.",
-                    "Arrive at your chosen spot at least 30 minutes before sunset to secure a good viewing position. A cloudless evening provides the most vivid colors.",
-                    "The period just after the sun has set, known as twilight, often offers beautiful colors in the sky."
+                    "If you're there in the late afternoon, you can enjoy a serene view of the sunset from this iconic landmark. The beach is another great location to watch the sunset and enjoy the sound of the waves.",
+                    "Arrive at your chosen spot at least 30 minutes before sunset to secure a good viewing position. A cloudless evening provides the most vivid colors. The period just after the sun has set, known as twilight, often offers beautiful colors in the sky."
                 ],                        
                 "images": [
                     "data/kanyakumari/site/sunset.jpg",
@@ -64,9 +62,8 @@
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
                 "description": [
                     "The Triveni Sangamam in Kanyakumari refers to the confluence of the Indian Ocean, the Arabian Sea, and the Bay of Bengal. This unique geographical feature makes Kanyakumari a special place, as it is the only location in India where you can witness the meeting of these three water bodies.",
-                    "Distinctive Colors: The different colors of the waters from each ocean are visible at the confluence, creating a beautiful and serene sight",
-                    "Scenic Beauty: The panoramic views of the ocean and the surrounding landscapes make it a popular spot for tourists and pilgrims.",
-                    "Spiritual Significance: The confluence is considered holy, and many visitors come to take a dip in the waters, believing it will wash away their sins."
+                    "The different colors of the waters from each ocean are visible at the confluence, creating a beautiful and serene sight. The panoramic views of the ocean and the surrounding landscapes make it a popular spot for tourists and pilgrims.",
+                    "The confluence is considered holy, and many visitors come to take a dip in the waters, believing it will wash away their sins."
                 ],                        
                 "images": [
                     "data/kanyakumari/site/triveni-sangamam.jpg",
@@ -85,8 +82,7 @@
                     "The Vivekananda Rock Memorial is a majestic structure located on a small island off the coast of Kanyakumari. It's a significant landmark dedicated to Swami Vivekananda, the great Indian philosopher and spiritual leader.",
                     "The memorial was built in 1970 to honor Swami Vivekananda, who is said to have attained enlightenment on this rock.",
                     "The design of the memorial is a blend of traditional Indian and contemporary architecture, featuring intricate carvings and a statue of Swami Vivekananda.",
-                    "There is a meditation hall called the Dhyan Mandapam, where visitors can meditate and find peace",
-                    "The rock offers stunning panoramic views of the confluence of the Arabian Sea, the Bay of Bengal, and the Indian Ocean."
+                    "There is a meditation hall called the Dhyan Mandapam, where visitors can meditate and find peace. The rock offers stunning panoramic views of the confluence of the Arabian Sea, the Bay of Bengal, and the Indian Ocean."
                 ],                        
                 "images": [
                     "data/kanyakumari/site/vivekananda-rock-memorial.jpg",
@@ -108,10 +104,8 @@
                 "locationUrl": "https://maps.app.goo.gl/pYeAuhRomGo87nxY8",
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
                 "description": [
-                    "The Bhagavathi Amman Temple, also known as the Kumari Amman Temple, is one of the most sacred temples in Kanyakumari, Tamil Nadu.",
-                    "The temple is situated on the southernmost tip of mainland India, offering stunning views of the ocean.",
-                    "The presiding deity is Goddess Devi Kanyakumari, also known as Bhagavathi Amman. She is considered a manifestation of the goddess Parvati.",
-                    "The temple is over 3000 years old and is one of the 108 Shakti Peethas, where parts of the goddess Shakti's body are believed to have fallen.",
+                    "The Bhagavathi Amman Temple, also known as the Kumari Amman Temple, is one of the most sacred temples in Kanyakumari, Tamil Nadu. The temple is situated on the southernmost tip of mainland India, offering stunning views of the ocean.",
+                    "The presiding deity is Goddess Devi Kanyakumari, also known as Bhagavathi Amman. She is considered a manifestation of the goddess Parvati. The temple is over 3000 years old and is one of the 108 Shakti Peethas, where parts of the goddess Shakti's body are believed to have fallen.",
                     "According to legend, the temple was built by Lord Parasurama to honor the goddess who defeated the demon Banasura."
                 ],                        
                 "images": [
@@ -149,8 +143,7 @@
                 "locationUrl": "",
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
                 "description": [
-                    "The Kamarajar Manimandapam is a memorial dedicated to K. Kamaraj, a prominent freedom fighter and former Chief Minister of Tamil Nadu. It is located near the Gandhi Mandapam in Kanyakumari",
-                    "The memorial was built to honor Kamaraj, who was affectionately known as the Black Gandhi due to his simplicity and dedication to public service.",
+                    "The Kamarajar Manimandapam is a memorial dedicated to K. Kamaraj, a prominent freedom fighter and former Chief Minister of Tamil Nadu. It is located near the Gandhi Mandapam in Kanyakumari. The memorial was built to honor Kamaraj, who was affectionately known as the Black Gandhi due to his simplicity and dedication to public service.",
                     "His ashes were kept here for public darshan before being immersed in the sea. The structure is designed in a blend of contemporary and traditional Dravidian architectural styles, symbolizing Kamaraj's enduring legacy."
                 ],                        
                 "images": [
@@ -169,8 +162,8 @@
                 "amenities": ["local_parking", "shopping_bag", "wc"],
                 "description": [
                     "The Thiruvalluvar Statue is a magnificent 41-meter-tall stone sculpture of the Tamil poet and philosopher Thiruvalluvar, who authored the ancient Tamil work Thirukkural. It is located on a small island near Kanyakumari, where the Bay of Bengal, the Arabian Sea, and the Indian Ocean meet.",
-                    "Height: 41 meters (133 feet),  Pedestal Height: 12 meters (38 feet), Total Height: 53 meters (173 feet), Weight: 7,000 tonnes (7,700 short tons), Designer: V. Ganapati Sthapati, Unveiled: January 1, 2000",
-                    "The statue represents the three themes of the Thirukkural: Virtue (Aram), Wealth (Porul), and Love (Inbam). The right hand of the statue, with three fingers pointing skywards, signifies these three themes"
+                    "Height: 41 meters (133 feet), Pedestal Height: 12 meters (38 feet), Total Height: 53 meters (173 feet), Weight: 7,000 tonnes (7,700 short tons), Designer: V. Ganapati Sthapati, Unveiled: January 1, 2000",
+                    "The statue represents the three themes of the Thirukkural; Virtue (Aram), Wealth (Porul), and Love (Inbam). The right hand of the statue, with three fingers pointing skywards, signifies these three themes"
                 ],                        
                 "images": [
                     "data/kanyakumari/site/thiruvalluvar-statue.jpg",
@@ -191,9 +184,8 @@
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
                 "description": [
                     "Kanyakumari Beach is a stunning and serene beach located at the southernmost tip of the Indian subcontinent, where the Bay of Bengal, the Arabian Sea, and the Indian Ocean converge. This unique geographical location offers visitors the incredible opportunity to witness both the sunrise and sunset over the ocean.",
-                    "Scenic Views: The beach offers breathtaking views of the ocean and the famous Vivekananda Rock Memorial and Thiruvalluvar Statue.",
-                    "Vibrant Atmosphere: The beach is bustling with activity, from local vendors selling snacks and souvenirs to families enjoying a day out.",
-                    "Triveni Sangam: The confluence of the three seas is marked by distinct shades of blue, making it a picturesque spot."
+                    "The beach offers breathtaking views of the ocean and the famous Vivekananda Rock Memorial and Thiruvalluvar Statue. The beach is bustling with activity, from local vendors selling snacks and souvenirs to families enjoying a day out.",
+                    "The confluence of the three seas is marked by distinct shades of blue, making it a picturesque spot."
                 ],                        
                 "images": [
                     "data/kanyakumari/site/kanyakumari-beach.jpg",
@@ -212,9 +204,7 @@
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
                 "description": [
                     "Sunset Point in Kanyakumari is a must-visit location to witness a truly mesmerizing sunset. Located near the Kanyakumari Beach, this spot provides an unobstructed view of the sun descending into the horizon, casting vibrant hues of orange, pink, and purple across the sky.",
-                    "Unobstructed Views: A clear view of the sunset over the ocean, making it a perfect spot for photography.",
-                    "Serene Atmosphere: A peaceful and tranquil setting, ideal for relaxation and reflection.",
-                    "Local Vendors: Nearby stalls selling snacks and refreshments, adding to the experience."
+                    "A clear view of the sunset over the ocean, making it a perfect spot for photography. A peaceful and tranquil setting, ideal for relaxation and reflection. Nearby stalls selling snacks and refreshments, adding to the experience."
                 ],                        
                 "images": [
                     "data/kanyakumari/site/sunset-point.jpg",
@@ -232,9 +222,8 @@
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
                 "description": [
                     "The View Tower in Kanyakumari is a popular spot for visitors to enjoy panoramic views of the surrounding landscapes and ocean. The View Tower is a great place to capture memorable photos and enjoy the natural beauty of Kanyakumari.",
-                    "Panoramic Views: The tower offers a 360-degree view of the ocean, the Vivekananda Rock Memorial, Thiruvalluvar Statue, and other landmarks.",
-                    "Telescope: There's a telescope available for visitors to get a closer look at the distant monuments and the vast ocean.",
-                    "Scenic Beauty: The views of the sunrise and sunset from the tower are particularly breathtaking. Early mornings and evenings provides the best views."
+                    "The tower offers a 360-degree view of the ocean, the Vivekananda Rock Memorial, Thiruvalluvar Statue, and other landmarks. There's a telescope available for visitors to get a closer look at the distant monuments and the vast ocean.",
+                    "The views of the sunrise and sunset from the tower are particularly breathtaking. Early mornings and evenings provides the best views."
                 ],                        
                 "images": [
                     "data/kanyakumari/site/view-tower.jpg",
@@ -254,10 +243,8 @@
                 "amenities": ["local_parking", "wc"],
                 "description": [
                     "The Balaji Temple in Kanyakumari, also known as the Tirupati Venkateswara Temple, is a relatively new but significant landmark in the southernmost tip of India. It's a replica of the famous Tirupati Venkateswara Temple in Andhra Pradesh.",
-                    "Location: It's situated on the premises of the Vivekananda Kendra, close to the shore, offering a serene and spiritual atmosphere.",
-                    "Replica: The temple is designed to resemble the original Tirupati temple, allowing devotees who cannot travel to Tirupati to experience the same divine presence.",
-                    "Architecture: The temple is built on 5.5 acres of land and is designed so that sunlight falls directly on the foot of the idol on Vishu (around April 14th).",
-                    "The Balaji Temple in Kanyakumari is a must-visit for anyone seeking spiritual solace or interested in experiencing the architectural grandeur of South Indian temples."
+                    "It's situated on the premises of the Vivekananda Kendra, close to the shore, offering a serene and spiritual atmosphere. The temple is designed to resemble the original Tirupati temple, allowing devotees who cannot travel to Tirupati to experience the same divine presence.",
+                    "The temple is built on 5.5 acres of land and is designed so that sunlight falls directly on the foot of the idol on Vishu (around April 14th). The Balaji Temple in Kanyakumari is a must-visit for anyone seeking spiritual solace or interested in experiencing the architectural grandeur of South Indian temples."
                 ],                        
                 "images": [
                     "data/kanyakumari/site/balaji-temple.jpg",
@@ -276,7 +263,7 @@
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
                 "description": [
                     "The Ramayan Mandir, also known as Sri Ramayana Darshanam, is located in the Vivekanandapuram area of Kanyakumari, within the Vivekananda Kendra campus. This temple is dedicated to Lord Rama and showcases the Valmiki Ramayan through a pictorial exhibition.",
-                    "108 Wooden Panels: Each panel depicts an important episode from the Ramayana in the form of oil paintings. 27-Foot Granite Hanuman Statue: A magnificent statue of Lord Hanuman stands at the entrance of the temple. Exhibition: The exhibition covers episodes from Valmiki's Tapasya to Sri Rama Pattabhishekam.",
+                    "Each panel depicts an important episode from the Ramayana in the form of oil paintings. 27-Foot Granite Hanuman A magnificent statue of Lord Hanuman stands at the entrance of the temple. The exhibition covers episodes from Valmiki's Tapasya to Sri Rama Pattabhishekam.",
                     "The temple is a great place to explore the rich heritage of the Ramayana and enjoy the serene environment of the Vivekananda Kendra campus."
                 ],                        
                 "images": [
@@ -301,7 +288,7 @@
                     "The Vivekananda Pictorial Exhibition is located at the Vivekananda Kendra in Vivekanandapuram, Kanyakumari. This unique exhibition showcases the life and contributions of Swami Vivekananda through a series of pictorial displays. It highlights his journey, teachings, and his clarion call to serve the Motherland.",
                     "The exhibition is a popular tourist destination and a place of pilgrimage for many who seek inspiration from Vivekananda's teachings. It is open to the public and offers a unique opportunity to learn about the life and legacy of this influential figure.",
                     "Pictorial Displays: The exhibition features numerous panels depicting significant moments from Swami Vivekananda's life",
-                    "Educational Value: It provides insights into his philosophy and his impact on India's cultural and spiritual heritage.",
+                    "It provides insights into his philosophy and his impact on India's cultural and spiritual heritage.",
                     "* Closed on Tuesday afternoon."
                 ],                        
                 "images": [
@@ -323,10 +310,8 @@
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
                 "description": [
                     "The Kanyakumari Eco Park is a beautiful and serene spot located in Kanyakumari, Tamil Nadu. Spread over an area of 5 acres, the park is a perfect place for nature lovers and those looking to relax and enjoy the natural beauty.",
-                    "Themed Gardens: The park includes various themed gardens such as a flower garden, herb garden, and butterfly garden.",
-                    "Children's Play Area: There are fun rides and games for kids to enjoy.",
-                    "Natural Landscapes: The park is home to over 200 different types of plants and offers a peaceful environment for visitors.",
-                    "Recreational Facilities: The park has outdoor seating, a waterfall, and a small wooden bridge.",
+                    "The park includes various themed gardens such as a flower garden, herb garden, and butterfly garden. Children's Play Area: There are fun rides and games for kids to enjoy.",
+                    "The park is home to over 200 different types of plants and offers a peaceful environment for visitors. The park has outdoor seating, a waterfall, and a small wooden bridge.",
                     "The park is a great place to spend a relaxing day, surrounded by nature and beautiful gardens."
                 ],                        
                 "images": [
@@ -350,10 +335,8 @@
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
                 "description": [
                     "Vattakottai Fort, also known as the Circular Fort, is a historic seaside fort located about 7 km from Kanyakumari, Tamil Nadu. Built in the 18th century during the reign of the Travancore kingdom, it served as a coastal defense fortification.",
-                    "Architecture: The fort is rectangular in shape, surrounded by strong walls that are 25-26 feet high. It includes watch towers, weapon rooms, and other sections",
-                    "Historical Significance: Constructed under the supervision of Captain Eustachius De Lannoy, it was one of the last seaside forts built by the Travancore kingdom",
-                    "Scenic Views: The fort offers stunning views of the ocean and the Western Ghats. It's also known for the nearby black sand beaches",
-                    "Restoration: The fort has been restored and developed as a tourist attraction, preserving its historical importance"
+                    "The fort is rectangular in shape, surrounded by strong walls that are 25-26 feet high. It includes watch towers, weapon rooms, and other sections. Constructed under the supervision of Captain Eustachius De Lannoy, it was one of the last seaside forts built by the Travancore kingdom",
+                    "The fort offers stunning views of the ocean and the Western Ghats. It's also known for the nearby black sand beaches. The fort has been restored and developed as a tourist attraction, preserving its historical importance"
                 ],                        
                 "images": [
                     "data/kanyakumari/site/vattakottai-fort.jpg",
@@ -399,9 +382,8 @@
                 "amenities": ["local_parking", "local_dining", "wc"],
                 "description": [
                     "The Kanyakumari Wax Museum, also known as Mayapuri Wonder Wax, is a fascinating attraction located near the railway station in Kanyakumari. The museum features a collection of wax sculptures representing famous personalities from history, politics, sports, and entertainment.",
-                    "Sculptures: The museum showcases wax figures of notable figures such as Mahatma Gandhi, Mother Teresa, Indira Gandhi, Amitabh Bachchan, Shah Rukh Khan, Arnold Schwarzenegger, and Jackie Chan",
-                    "Interactive Art: In addition to the wax figures, the museum also has 3D paintings and interactive exhibits that add to the visitor experience.",
-                    "The museum is a great place to take memorable photos with wax figures of your favorite celebrities and learn about their contributions."
+                    "The museum showcases wax figures of notable figures such as Mahatma Gandhi, Mother Teresa, Indira Gandhi, Amitabh Bachchan, Shah Rukh Khan, Arnold Schwarzenegger, and Jackie Chan",
+                    "In addition to the wax figures, the museum also has 3D paintings and interactive exhibits that add to the visitor experience. The museum is a great place to take memorable photos with wax figures of your favorite celebrities and learn about their contributions."
                 ],                        
                 "images": [
                     "data/kanyakumari/site/wax-museum.jpg",
@@ -442,10 +424,8 @@
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
                 "description": [
                     "The Thanumalayan Temple, also known as the Sthanumalayan Kovil, is a significant Hindu temple located in Suchindram, near Kanyakumari, Tamil Nadu. This temple is unique as it is dedicated to the Trimurti—Lord Shiva, Lord Vishnu, and Lord Brahma.",
-                    "Architecture: The temple showcases Dravidian architecture with two gateway towers (gopurams), the tallest being 44 meters (144 feet) high.",
-                    "Deities: The main deity, Sri Sthanumalayan, represents the three gods—Shiva (Sthanu), Vishnu (Mal), and Brahma (Ayan).",
-                    "Legends: The temple is associated with legends of King Indra and Anasuya, the wife of Sage Atri.",
-                    "Festivals: The temple hosts numerous yearly festivals, with the Margazhi festival being the most prominent."
+                    "The temple showcases Dravidian architecture with two gateway towers (gopurams), the tallest being 44 meters (144 feet) high. The main deity, Sri Sthanumalayan, represents the three gods—Shiva (Sthanu), Vishnu (Mal), and Brahma (Ayan).",
+                    "The temple is associated with legends of King Indra and Anasuya, the wife of Sage Atri. The temple hosts numerous yearly festivals, with the Margazhi festival being the most prominent."
                 ],                        
                 "images": [
                     "data/kanyakumari/site/thanumalayan-temple.jpg",
@@ -464,9 +444,8 @@
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
                 "description": [
                     "Sothavilai Beach or Chothavilai Beach is one of the longest natural sandy beaches in Tamil Nadu, stretching over 4 kilometers. Located in the Kanyakumari district, it's a serene and picturesque spot, perfect for a peaceful getaway",
-                    "Scenic Beauty: The beach is known for its golden sands and shallow waters, making it ideal for swimming and beach sports.",
-                    "Clean Environment: It's a relatively clean and less crowded beach, offering a tranquil atmosphere.",
-                    "Safety: While the beach is beautiful, visitors should be cautious of the strong waves, especially during high tide."
+                    "The beach is known for its golden sands and shallow waters, making it ideal for swimming and beach sports. It's a relatively clean and less crowded beach, offering a tranquil atmosphere.",
+                    "While the beach is beautiful, visitors should be cautious of the strong waves, especially during high tide."
                 ],                        
                 "images": [
                     "data/kanyakumari/site/sothavilai-beach.jpg",
@@ -486,10 +465,9 @@
                 "amenities": ["local_dining", "shopping_bag", "wc"],
                 "description": [
                     "The Padmanabhapuram Palace, also known as Kalkulam Palace, is a historic palace located in Padmanabhapuram, near Kanyakumari, Tamil Nadu. It was the former capital of the erstwhile kingdom of Travancore and is now maintained by the Kerala Government.",
-                    "Architecture: The palace is a fine example of traditional Kerala architecture, with intricate wood carvings, beautiful murals, and unique structural designs.",
-                    "Historical Significance: Constructed around 1601 CE by Iravi Varma Kulasekhara Perumal, it was later rebuilt by King Anizham Thirunal Marthanda Varma in 1750.",
+                    "The palace is a fine example of traditional Kerala architecture, with intricate wood carvings, beautiful murals, and unique structural designs. Constructed around 1601 CE by Iravi Varma Kulasekhara Perumal, it was later rebuilt by King Anizham Thirunal Marthanda Varma in 1750.",
                     "The palace complex includes several notable structures such as the Mantrashala (King's Council Chamber), Nataksala (Performance Hall), and Thai Kottaram (Mother's Palace)",
-                    "Heritage Museum: The palace has been converted into a museum, showcasing various artifacts and exhibits related to the history and culture of the Travancore kingdom",
+                    "The palace has been converted into a museum, showcasing various artifacts and exhibits related to the history and culture of the Travancore kingdom",
                     "Closed on Monday."
                 ],                        
                 "images": [
@@ -516,8 +494,7 @@
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
                 "description": [
                     "The Mathoor Hanging Bridge, also known as the Mathur Aqueduct, is an impressive engineering marvel located in the Thiruvattar taluk of Kanyakumari district, Tamil Nadu. Built in 1966, it is the tallest and longest trough bridge in Asia",
-                    "Height: 115 feet (35 meters), Length: 1 kilometer (0.62 miles), Purpose: Constructed as a drought relief measure, it transports water for irrigation from one hill to another.",
-                    "Structure: The bridge is supported by 28 huge pillars and has a trough that is 7 feet tall and 7.5 feet wide., Tourist Attraction: The bridge has become a popular tourist spot, offering breathtaking views of the surrounding hills and rivers."
+                    "Height: 115 feet (35 meters), Length: 1 kilometer (0.62 miles), Constructed as a drought relief measure, it transports water for irrigation from one hill to another. The bridge is supported by 28 huge pillars and has a trough that is 7 feet tall and 7.5 feet wide. The bridge has become a popular tourist spot, offering breathtaking views of the surrounding hills and rivers."
                 ],                        
                 "images": [
                     "data/kanyakumari/site/mathoor-hanging-bridge.jpg",
@@ -536,7 +513,7 @@
                 "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
                 "description": [
                     "Thirparappu Falls is a scenic waterfall located in the Kanyakumari district of Tamil Nadu, near the town of Kulasekharam. The waterfall is formed by the Kodayar River making its descent from a height of about 50 feet. The rocky riverbed and lush green surroundings make it a picturesque spot for visitors.",
-                    "Height: Approximately 50 feet, River: Kodayar River, Scenery: Rocky riverbed and lush greenery, Accessibility: The falls are accessible for about seven months of the year, typically from the monsoon season until the summer.",
+                    "Height: Approximately 50 feet, River: Kodayar River, Scenery: Rocky riverbed and lush greenery, The falls are accessible for about seven months of the year, typically from the monsoon season until the summer.",
                     "The area also features a temple dedicated to Lord Shiva and a swimming pool for children, making it a popular spot for families."
                 ],                        
                 "images": [
