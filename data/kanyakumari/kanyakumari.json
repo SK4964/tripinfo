@@ -5,6 +5,11 @@
     "locationUrl": "https://maps.app.goo.gl/Uv3rLSCf2X5Ztnq57",
     "image": "data/kanyakumari/site/kanyakumari.jpg",
     "bestTimeToVisit": "The perfect time to experience Kanniyakumari is from November to March as the weather would be cool and pleasant. Summers can be really hot as the destination has a tropical climate.",
+    "fee": [
+        {"description": "Car", "value": "50"},
+        {"description": "Van", "value": "70"},
+        {"description": "Bus", "value": "100"}
+    ],
     "updatedOn": "28/12/2024",
     "connectivity": {
         "bus": "Kanyakumari Bus Station, in Kanyakumari town.",

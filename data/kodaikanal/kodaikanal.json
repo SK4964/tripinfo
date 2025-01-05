@@ -5,6 +5,11 @@
     "locationUrl": "https://maps.app.goo.gl/YrbMu4hheRv8kGRd9",
     "image": "data/kodaikanal/site/kodaikanal.jpg",
     "bestTimeToVisit": "The perfect time to experience Kodaikanal is from March to May and September to November. The weather is generally pleasant throughout the year.",
+    "fee": [
+        {"description": "Car", "value": "60"},
+        {"description": "Van", "value": "80"},
+        {"description": "Bus", "value": "150"}
+    ],
     "updatedOn": "28/12/2024",
     "connectivity": {
         "bus": "Kodaikanal Bus Station, in Kodaikanal town.",
