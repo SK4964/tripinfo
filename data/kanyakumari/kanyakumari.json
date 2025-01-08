@@ -422,6 +422,23 @@
                 "fee": []
             },
             {
+                "title": "Shirdhi Sai Baba Temple",
+                "timing":"6:30 AM - 12:00 PM, 4:00 PM - 8:00 PM",
+                "address": "Pottaiyadi, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/cbV9oCK12pj8WVxh8",
+                "amenities": ["local_parking", "wc"],
+                "description": [
+                    "The Shirdi Sai Baba Temple in Kanyakumari is a beautiful and serene place of worship dedicated to Sai Baba of Shirdi. The temple offers a peaceful environment for devotees to meditate and pray."                    
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/shirdhi-sai-baba-temple.jpg",
+                    "data/kanyakumari/site/shirdhi-sai-baba-temple-1.jpg",
+                    "data/kanyakumari/site/shirdhi-sai-baba-temple-2.jpg",
+                    "data/kanyakumari/site/shirdhi-sai-baba-temple-3.jpg"
+                ],
+                "fee": []
+            },
+            {
                 "title": "Thanumalayan Temple",
                 "timing":"4:30 AM - 12:30 PM, 4:00 PM - 8:00 PM",
                 "address": "Suchindram, Kanyakumari",
@@ -534,6 +551,106 @@
                     {"description": "Children", "value": "10"},
                     {"description": "Boating", "value": "50"}
                 ]
+            },
+            {
+                "title": "Adi Kesava Perumal Temple",
+                "timing":"5:00 AM - 12:00 PM, 5:00 PM - 8:00 PM",
+                "address": "Thiruvattaru, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/WUp9mQ3dXs4FbEN19",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The Adi Kesava Perumal Temple is a beautiful and historic temple located in Thiruvattar, in the Kanyakumari district of Tamil Nadu, India. It's one of the 108 Divya Desams, which are sacred sites dedicated to Lord Vishnu in Hindu Vaishnavism.",
+                    "The presiding deity is Lord Vishnu in the form of Adi Kesava Perumal, depicted in a reclining position on a snake. The temple showcases a blend of Dravidian and Kerala styles of architecture, with wooden pillars, doors, and roof",
+                    "It's surrounded by three rivers – Thamirabharani, Kothai, and Pahrali – earning it the nickname Srirangam of the Chera Kingdom. The temple is believed to have been consecrated by Parasurama and has inscriptions dating back to the Treta Yuga",
+                    "Vaikuntha Ekadashi and Krishna Janmashtami are celebrated with great pomp and glory"
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/adi-kesava-perumal-temple.jpg",
+                    "data/kanyakumari/site/adi-kesava-perumal-temple-1.jpg",
+                    "data/kanyakumari/site/adi-kesava-perumal-temple-2.jpg",
+                    "data/kanyakumari/site/adi-kesava-perumal-temple-3.jpg",
+                    "data/kanyakumari/site/adi-kesava-perumal-temple-4.jpg"
+                ],
+                "fee": []
+            },
+            {
+                "title": "Kaalikesam Waterfalls",
+                "timing":"9:00 AM - 05:00 PM",
+                "address": "Kaalikesam, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/r5nyMia61aBp5S9z7",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "Kaalikesam Waterfalls is a beautiful and serene waterfall located in the Kanyakumari district of Tamil Nadu, India. It's nestled within the Kanyakumari Wildlife Sanctuary and is part of the Kalakkad Mundanthurai Tiger Reserve at the southern end of the Western Ghats.",
+                    "The waterfall is surrounded by lush greenery, creating a peaceful and calming atmosphere. The sound of the falling water adds to the serene environment1. The waterfall has a height of 80 feet and a width of 12 feet.",
+                    "There are several caves and a lake inside the waterfall area, adding to its charm. It's a popular destination for both tourists and locals, offering activities like leisurely walks and relaxation. However, it's advisable to avoid visiting during heavy rains due to safety concerns."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/kaalikesam-waterfalls.jpg",
+                    "data/kanyakumari/site/kaalikesam-waterfalls-1.jpg",
+                    "data/kanyakumari/site/kaalikesam-waterfalls-2.jpg",
+                    "data/kanyakumari/site/kaalikesam-waterfalls-3.jpg",
+                    "data/kanyakumari/site/kaalikesam-waterfalls-4.jpg",
+                    "data/kanyakumari/site/kaalikesam-waterfalls-5.jpg"
+                ],
+                "fee": []
+            },
+            {
+                "title": "Kumara Koil Murugan Temple",
+                "timing":"4:00 AM - 12:30 PM, 5 PM - 8 PM",
+                "address": "Kumaracoil, Kanyakumari",
+                "locationUrl": "https://maps.app.goo.gl/wbMyd5fJgd7cFzQJA",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The Kumara Koil Murugan Temple, also known as Veli Malai Kumarakoil, is a revered temple dedicated to Lord Murugan. It is located at the foothills of Veli Malai in the Padmanabhapuram area, near Nagercoil, Tamil Nadu.",
+                    "The main deity is Lord Murugan, depicted in a monolithic sculpture measuring 8.5 feet. Goddess Valli, his consort, is depicted alongside him, standing at 6.5 feet. The temple is accessed through a flight of 40 steep steps, leading to the sanctum. The temple showcases traditional Dravidian architecture.",
+                    "The temple is associated with the legends of Valli's marriage to Murugan. It is believed that Lord Murugan performed a yagna (sacrificial ritual) here to marry Valli. The temple celebrates the divine wedding of Valli and Murugan with great fervor during the Tamil month of Panguni (March-April)",
+                    "The temple is set in scenic surroundings, offering a peaceful and serene environment for devotees."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/kumara-koil-murugan-temple.jpg",
+                    "data/kanyakumari/site/kumara-koil-murugan-temple-1.jpg",
+                    "data/kanyakumari/site/kumara-koil-murugan-temple-2.jpg",
+                    "data/kanyakumari/site/kumara-koil-murugan-temple-3.jpg"
+                ],
+                "fee": []
+            },
+            {
+                "title": "Mandaikkadu Devi Temple",
+                "timing":"4:00 AM - 12:30 PM, 5 PM - 8 PM",
+                "address": "Mandaikadu Main Rd, Mandaikadu",
+                "locationUrl": "https://maps.app.goo.gl/Fk8G99Psgindc1AR8",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The Mandaikkadu Devi Temple, also known as Bhagavathi Amman Temple, is a renowned temple located in Mandaikkadu, near Colachel in the Kanyakumari district of Tamil Nadu. Main Deity: The temple is dedicated to Bhagavathi Amman, who is depicted in the form of a 12-foot tall anthill with five heads.",
+                    "The temple is built in the Kerala style and is known for its simplicity and traditional design. The temple celebrates various festivals with great enthusiasm, attracting devotees from far and wide."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/mandaikkadu-devi-temple.jpg",
+                    "data/kanyakumari/site/mandaikkadu-devi-temple-1.jpg",
+                    "data/kanyakumari/site/mandaikkadu-devi-temple-2.jpg",
+                    "data/kanyakumari/site/mandaikkadu-devi-temple-3.jpg"
+                ],
+                "fee": []
+            },
+            {
+                "title": "Udayagiri Fort",
+                "timing":"9:00 AM - 5:00 PM",
+                "address": "Kumaracoil, Padmanabhapuram",
+                "locationUrl": "https://maps.app.goo.gl/hJFahuCx1q8CtYwH7",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "Originally built as a mud fort in the 17th century, it was later rebuilt using massive granite blocks by Maharaja Marthanda Varma of Travancore in the 18th century. The renovation was supervised by Eustachius De Lannoy, a Dutch naval commander who later served as the Chief of the Travancore Army.",
+                    "The fort is built around an isolated hillock and spans about 90 acres. It includes an old foundry used for casting guns and a 16-foot-long brass gun that could not be moved even with the help of 16 elephants. Inside the fort, you can find the tombs of De Lannoy, his wife, and his son, located within a partly ruined chape.",
+                    "Recently, the fort has been turned into a biodiversity park by the Tamil Nadu Forest Department, featuring a variety of flora, fauna, and avifauna. Udayagiri Fort is a historic fort located in the Kanyakumari district of Tamil Nadu, India. It is situated about 14 km from Nagercoil and 34 km from Kanyakumari, near the town of Thuckalay."
+                ],                        
+                "images": [
+                    "data/kanyakumari/site/udayagiri-fort.jpg",
+                    "data/kanyakumari/site/udayagiri-fort-1.jpg",
+                    "data/kanyakumari/site/udayagiri-fort-2.jpg",
+                    "data/kanyakumari/site/udayagiri-fort-3.jpg",
+                    "data/kanyakumari/site/udayagiri-fort-4.jpg"
+                ],
+                "fee": []
             }
         ]
     },
