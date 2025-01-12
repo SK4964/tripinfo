@@ -2,5 +2,6 @@
     {"title": "Musical Fountain", "link": "kanyakumari", "type": "site", "image": "data/kanyakumari/site/musical-fountain.jpg"},
     {"title": "Wax Museum", "link": "kanyakumari", "type": "site", "image": "data/kanyakumari/site/wax-museum.jpg"},
     {"title": "Moir Point", "link": "kodaikanal", "type": "site", "image": "data/kodaikanal/site/moir-point.jpg"},
-    {"title": "Bryant Park", "link": "kodaikanal", "type": "site", "image": "data/kodaikanal/site/bryant-park.jpg"}
+    {"title": "Bryant Park", "link": "kodaikanal", "type": "site", "image": "data/kodaikanal/site/bryant-park.jpg"},
+    {"title": "Thread Garden", "link": "ooty", "type": "site", "image": "data/ooty/site/thread-garden.jpg"}
 ]

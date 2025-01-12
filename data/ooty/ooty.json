@@ -1,6 +1,6 @@
 {
     "title": "Ooty",
-    "subTitle": "Tamil Nadu, India",
+    "subTitle": "Tamil Nadu",
     "description": "Ooty, also known as Udhagamandalam, is a charming hill station located in the Nilgiri district of Tamil Nadu, India. It's often referred to as the Queen of Hill Stations due to its picturesque landscapes, cool climate, and beautiful gardens. Ooty is known for its lush greenery, misty hills, and beautiful lakes. It's often called the Switzerland of India because of its resemblance to the Swiss countryside.",
     "locationUrl": "https://maps.app.goo.gl/DWAG8dBqWYZvDBH37",
     "image": "data/ooty/site/ooty.jpg",
@@ -223,6 +223,287 @@
                 "fee": [
                     {"description": "Adult", "value": "75"},
                     {"description": "Children", "value": "40"}
+                ]
+            },
+            {
+                "title": "Toy Train",
+                "timing":"7:00 AM - 5:00 PM",
+                "address": "Kathadimattam, Ooty",
+                "locationUrl": "https://maps.app.goo.gl/rxUZB8YabRpNxgDY9",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The Ooty toy train, also known as the Nilgiri Mountain Railway, is a delightful and historic train journey that connects the town of Mettupalayam with the hill station of Ooty (Udhagamandalam) in Tamil Nadu, India. It is part of the UNESCO World Heritage Site known as the Mountain Railways of India.",
+                    "The train journey offers breathtaking views of the Nilgiri Hills, tea estates, forests, and charming little stations along the way. The route covers a distance of about 46 kilometers. The railway was built by the British in the early 20th century and has been operating since 1908. It uses a unique rack and pinion system to navigate the steep inclines.",
+                    "The ride is often described as a magical experience, with its vintage carriages and slow pace, allowing passengers to soak in the beautiful surroundings. The train passes through 16 tunnels and crosses over 250 bridges. The toy train is known for its heritage steam locomotives, although some services are now operated by diesel engines.",
+                    "It's a must-try experience for anyone visiting Ooty"
+                ],                        
+                "images": [
+                    "data/ooty/site/toy-train.jpg",
+                    "data/ooty/site/toy-train-1.jpg",
+                    "data/ooty/site/toy-train-2.jpg",
+                    "data/ooty/site/toy-train-3.jpg",
+                    "data/ooty/site/toy-train-4.jpg"
+                ],
+                "fee": [
+                    {"description": "Second Sitting", "value": "150"},
+                    {"description": "First Class", "value": "350"}
+                ]
+            },
+            {
+                "title": "Museum",
+                "timing":"10:00 AM - 5:00 PM",
+                "address": "Stone House, Ooty",
+                "locationUrl": "https://maps.app.goo.gl/NNbjKedYiVCVZ2YK9",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The Government Museum in Ooty, also known as the Stone House or Kal Bungalow, is a fascinating place to explore the cultural heritage and history of the indigenous tribes of the Nilgiri region. The museum showcases a remarkable collection of tribal objects, including craft, sculptures, jewelry, clothing, farming implements, and ecological details of the region.",
+                    "It also features taxidermy artifacts, geological items, musical instruments, and ancient statues. The museum highlights the culture and society of the 18 tribes in Ooty, with a special focus on the Toda tribe, a pastoral community known for their unique customs and traditions.",
+                    "It's a great spot to learn about the rich cultural heritage of the area and the way of life of the indigenous tribes."
+                ],                        
+                "images": [
+                    "data/ooty/site/museum.jpg",
+                    "data/ooty/site/museum-1.jpg",
+                    "data/ooty/site/museum-2.jpg",
+                    "data/ooty/site/museum-3.jpg",
+                    "data/ooty/site/museum-4.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "5"},
+                    {"description": "Children", "value": "3"}
+                ]
+            },
+            {
+                "title": "Thread Garden",
+                "timing":"9:00 AM - 7:00 PM",
+                "address": "North Lake Road, Ooty",
+                "locationUrl": "https://maps.app.goo.gl/EFEgiiXZkxeFptieA",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The Thread Garden in Ooty is a unique and fascinating attraction. it showcases an incredible collection of artificial flowers, plants, and trees, all crafted entirely from thread, canvas, and wire. The garden was created by Mr. Antony Joseph and his team of skilled workers using a technique called Four Dimensional Hand Wound Embroidery.",
+                    "This meticulous process involves no machines or needles, just the hands of the artists. The garden features over 150 types of artificial flowers and plants, each one made with incredible attention to detail. The vibrant colors and lifelike appearance of the creations are truly mesmerizing. The project took 12 years to complete and used approximately 6 crore meters of embroidery thread.",
+                    "Visitors can explore the dimly lit space and marvel at the intricate designs. The garden is a testament to human creativity and craftsmanship.",
+                    "It's a must-visit spot for art lovers and anyone interested in unique and innovative art forms"
+
+                ],                        
+                "images": [
+                    "data/ooty/site/thread-garden.jpg",
+                    "data/ooty/site/thread-garden-1.jpg",
+                    "data/ooty/site/thread-garden-2.jpg",
+                    "data/ooty/site/thread-garden-3.jpg",
+                    "data/ooty/site/thread-garden-4.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "30"},
+                    {"description": "Children", "value": "20"}
+                ]
+            },
+            {
+                "title": "Honeymoon Boat House",
+                "timing":"9:00 AM - 5:00 PM",
+                "address": "Lake Road, Ooty",
+                "locationUrl": "https://maps.app.goo.gl/69zQLHvjciQv67uX9",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The Honeymoon Boat House in Ooty is a charming spot, perfect for couples looking to spend some romantic time together. Located on the west side of the main Ooty Boat House, it offers a serene and picturesque setting. A long paved walkway surrounded by greenery and the lake, making it an ideal place for a leisurely strol.",
+                    "You can enjoy various boating options, including pedal boats, row boats, and motor boats. It's a great way to explore the lake and enjoy the beautiful surroundings. The Honeymoon Boat House is less crowded compared to other spots in Ooty, providing a peaceful and romantic environment for couples.",
+                    "It's definitely a must-visit destination for honeymooners and couples looking to create beautiful memories together."
+                ],                        
+                "images": [
+                    "data/ooty/site/honeymoon-boat-house.jpg",
+                    "data/ooty/site/honeymoon-boat-house-1.jpg",
+                    "data/ooty/site/honeymoon-boat-house-2.jpg",
+                    "data/ooty/site/honeymoon-boat-house-3.jpg",
+                    "data/ooty/site/honeymoon-boat-house-4.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "15"},
+                    {"description": "Children", "value": "15"}
+                ]
+            },
+            {
+                "title": "Avalanche Lake",
+                "timing":"9:30 AM - 5:00 PM",
+                "address": "Avalanche, Ooty",
+                "locationUrl": "https://maps.app.goo.gl/FN4a6TvECMroEVWD8",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "Avalanche Lake is a beautiful and serene destination located about 28 kilometers from Ooty in the Nilgiris district of Tamil Nadu. The lake is surrounded by lush greenery, including magnolias, rhododendrons, and shola forests, making it a picturesque spot.",
+                    "Visitors can enjoy activities like trout fishing, trekking, camping, and nature walks. The lake is especially popular after the monsoon season when the water levels are high. The area is part of the Nilgiri Biosphere Reserve and is home to a variety of flora and fauna, including some endangered species.",
+                    "Camping is allowed at Avalanche Lake, and you can set up tents to spend the night under the stars. There are also forest rest houses available for overnight stays. It's a perfect getaway for nature lovers and adventure seekers."
+                ],                        
+                "images": [
+                    "data/ooty/site/avalanche-lake.jpg",
+                    "data/ooty/site/avalanche-lake-1.jpg",
+                    "data/ooty/site/avalanche-lake-2.jpg",
+                    "data/ooty/site/avalanche-lake-3.jpg",
+                    "data/ooty/site/avalanche-lake-4.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "20"},
+                    {"description": "Children", "value": "20"},
+                    {"description": "Motorcycle", "value": "20"},
+                    {"description": "Car", "value": "50"},
+                    {"description": "Van, Bus", "value": "200"}
+                ]
+            },
+            {
+                "title": "Emerald Lake",
+                "timing":"9:30 AM - 5:00 PM",
+                "address": "Emerald Lake Road, Ooty",
+                "locationUrl": "https://maps.app.goo.gl/HK4Wf6WgYe6iPFWNA",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "Emerald Lake is a hidden gem nestled in the Nilgiris district of Tamil Nadu, about 20 kilometers from Ooty. It's a serene and picturesque spot, perfect for nature lovers and those seeking a peaceful retreat.",
+                    "The lake is surrounded by lush green tea gardens, rolling hills, and dense forests, offering breathtaking views. The tranquil blue-green waters of the lake create a stunning contrast with the surrounding greenery. Watching the sunset over Emerald Lake is a magical experience. The changing colors of the sky and the reflection on the water make for a mesmerizing sight.",
+                    "Visitors can enjoy activities like nature walks, bird-watching, and picnics. The area is also popular for photography, with its beautiful landscapes and vibrant flora and fauna. The lake is relatively less crowded, providing a perfect escape from the hustle and bustle of city life."
+                ],                        
+                "images": [
+                    "data/ooty/site/emerald-lake.jpg",
+                    "data/ooty/site/emerald-lake-1.jpg",
+                    "data/ooty/site/emerald-lake-2.jpg",
+                    "data/ooty/site/emerald-lake-3.jpg",
+                    "data/ooty/site/emerald-lake-4.jpg"
+                ],
+                "fee": [
+                ]
+            },
+            {
+                "title": "Wenlock Downs",
+                "timing":"7:00 AM - 6:45 PM",
+                "address": "Gundlupet Hwy, Ooty",
+                "locationUrl": "https://maps.app.goo.gl/fTQxHxgeviG39Md89",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "Wenlock Downs is a beautiful and expansive grassland located about 17 kilometers from Ooty, Tamil Nadu. It's a popular spot for nature lovers, picnickers, and those looking to enjoy the serene beauty of the Nilgiri Hills.The vast meadows stretch out as far as the eye can see, offering stunning panoramic views of the surrounding hills and valleys.",
+                    "It's often referred to as the Shooting Point because of its picturesque landscapes, which have been featured in several Indian movies. Visitors can enjoy activities like walking, hiking, and picnicking amidst the lush greenery. The area is also home to the Gymkhana Club, the Hindustan Photo Films Company, and a Government Sheep Farm."
+                ],                        
+                "images": [
+                    "data/ooty/site/wenlock-downs.jpg",
+                    "data/ooty/site/wenlock-downs-1.jpg",
+                    "data/ooty/site/wenlock-downs-2.jpg",
+                    "data/ooty/site/wenlock-downs-3.jpg",
+                    "data/ooty/site/wenlock-downs-4.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "30"},
+                    {"description": "Children", "value": "30"}
+                ]
+            },
+            {
+                "title": "6th Mile",
+                "timing":"7:00 AM - 6:45 PM",
+                "address": "Sholur, Ooty",
+                "locationUrl": "https://maps.app.goo.gl/TpARcVR9MACoh33i6",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "6th Mile is a scenic viewpoint located about 10 kilometers from Ooty, Tamil Nadu, nestled within the Wenlock Downs. It's a popular spot for nature lovers and photographers due to its stunning views and lush surroundings. The location offers breathtaking panoramic views of the Nilgiri Hills, Shola forests, and the surrounding meadows.",
+                    "Visitors can enjoy activities like hiking, horse riding, and photography. The area is perfect for capturing beautiful photos of the greenery and landscapes. Near 6th Mile, you can find the traditional barrel-shaped huts of the Toda tribe, known as munds. These huts are made of bamboo and grass and have a small door that requires crawling to enter or exit.",
+                    "The best time to visit 6th Mile is from December to April when the weather is pleasant and dry. This period offers clear skies and comfortable temperatures for exploring the area. It's a great spot to relax and enjoy the natural beauty of the Nilgiris."
+                ],                        
+                "images": [
+                    "data/ooty/site/6th-mile.jpg",
+                    "data/ooty/site/6th-mile-1.jpg",
+                    "data/ooty/site/6th-mile-2.jpg",
+                    "data/ooty/site/6th-mile-3.jpg",
+                    "data/ooty/site/6th-mile-4.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "30"},
+                    {"description": "Children", "value": "30"}
+                ]
+            },
+            {
+                "title": "Kalhatty Waterfalls",
+                "timing":"9:00 AM - 5:00 PM",
+                "address": "Kalhatti, Ooty",
+                "locationUrl": "https://maps.app.goo.gl/aVXPtQstjqrFtPn26",
+                "amenities": ["local_parking", "local_dining"],
+                "description": [
+                    "Kalhatty Waterfalls, also known as Kalhatti Falls, is a beautiful and serene waterfall located about 13 kilometers from Ooty, Tamil Nadu. he falls are set against the backdrop of the Western Ghats, cascading from the Sigur Plateau. The lush greenery and the sound of the water create a peaceful and picturesque environment.",
+                    "To reach the falls, you can embark on a trek from the Kalhatti village, which is about 3 kilometers long. The trek is adventurous and offers a chance to immerse yourself in nature. The area is rich in flora and fauna, making it an ideal spot for bird watching. You might also spot wild animals like deer, wild buffalo, and sambhar coming to drink water.",
+                    "The best time to visit is from September to November, when the monsoon has receded, and the weather is pleasant. It's advisable to avoid visiting during the peak monsoon season due to unpredictable water levels. It's a wonderful spot for nature lovers and adventure seekers."
+                ],                        
+                "images": [
+                    "data/ooty/site/kalhatty-waterfalls.jpg",
+                    "data/ooty/site/kalhatty-waterfalls-1.jpg",
+                    "data/ooty/site/kalhatty-waterfalls-2.jpg",
+                    "data/ooty/site/kalhatty-waterfalls-3.jpg",
+                    "data/ooty/site/kalhatty-waterfalls-4.jpg"
+                ],
+                "fee": [
+                ]
+            },
+            {
+                "title": "Tea Museum",
+                "timing":"9:00 AM - 5:30 PM",
+                "address": "Dodabetta Road, Ooty",
+                "locationUrl": "https://maps.app.goo.gl/rXtHUtKaUCQwMw988",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The Tea Museum in Ooty, also known as the Tea Factory, is a fascinating place for tea enthusiasts and visitors interested in learning about the tea-making process. The museum showcases the history of tea production in the Nilgiris and its evolution over the years. It also highlights the importance of tea in India and its global significance.",
+                    "Visitors can see the entire process of tea production, from plucking the fresh leaves to packaging the final product. The museum features various stages like withering, rolling, drying, and the CTC (Cut, Tear, Curl) method. One of the highlights is the opportunity to taste freshly brewed tea. Different flavors like cardamom tea, masala tea, ginger tea, and green tea are available.",
+                    "The museum shop offers tea-related souvenirs such as tea cups, tea plates, and t-shirts with the Tea Museum logo. he factory also produces homemade chocolates, which visitors can purchase. Flavors include rum and raisin, fruit and nut, fig and honey, roasted almonds, coffee chocolate, and sugar-free varieties."
+                ],                        
+                "images": [
+                    "data/ooty/site/tea-museum.jpg",
+                    "data/ooty/site/tea-museum-1.jpg",
+                    "data/ooty/site/tea-museum-2.jpg",
+                    "data/ooty/site/tea-museum-3.jpg",
+                    "data/ooty/site/tea-museum-4.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "10"},
+                    {"description": "Children", "value": "10"}
+                ]
+            },
+            {
+                "title": "Kamraj Sagar Dam",
+                "timing":"9:00 AM - 5:00 PM",
+                "address": "Gundlupet Hwy, Ooty",
+                "locationUrl": "https://maps.app.goo.gl/ZesFXx2iSh349RHU6",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "The Kamraj Sagar Dam, also known as the Sandynalla Reservoir, is located about 10 kilometers from Ooty in the Nilgiris district of Tamil Nadu. The dam is surrounded by lush greenery and offers picturesque views, making it a popular spot for picnics and photography. Visitors can enjoy activities like bird watching, nature walks, and fishing. The reservoir is home to various species of fish, including trout.",
+                    "It's easily accessible by road from Ooty, and the journey itself offers beautiful views of the countryside. The dam has been a popular location for film shoots, including the famous Tamil movie Roja. It's a wonderful spot to relax and enjoy the natural beauty of the Nilgiris."                
+                ],                        
+                "images": [
+                    "data/ooty/site/kamraj-sagar-dam.jpg",
+                    "data/ooty/site/kamraj-sagar-dam-1.jpg",
+                    "data/ooty/site/kamraj-sagar-dam-2.jpg",
+                    "data/ooty/site/kamraj-sagar-dam-3.jpg",
+                    "data/ooty/site/kamraj-sagar-dam-4.jpg"
+                ],
+                "fee": [
+                ]
+            },
+            {
+                "title": "Mudumalai Tiger Reserve",
+                "timing":"6:30 AM - 6:00 PM *",
+                "address": "Mudumalai, Ooty",
+                "locationUrl": "https://maps.app.goo.gl/eRr3m7ZnT1aZjJnRA",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "Mudumalai Tiger Reserve is an incredible destination for wildlife enthusiasts and nature lovers. The reserve is home to a diverse range of wildlife, including endangered species like the Bengal tiger, Indian elephant, Indian leopard, and Indian gaur. It also boasts rich biodiversity with numerous bird species, reptiles, and amphibians.",                    
+                    "Covering an area of approximately 321 square kilometers, the reserve offers a variety of habitats, including tropical moist deciduous forests, dry deciduous forests, and grasslands. Visitors can engage in activities like jeep safaris, elephant safaris, and bird watching. The guided safaris offer a chance to spot wildlife in their natural habitat.",
+                    "Established in 1940 and declared a tiger reserve under Project Tiger in 2007, Mudumalai Tiger Reserve has been a protected area for over 80 years. It's a fantastic destination to experience the natural beauty and wildlife of the Nilgiris.",
+                    "* Vehicle Safari: 6:30 AM - 10:00 AM, 2:00 PM - 5:00 PM, Elephant Camp: 8:30 AM - 9:00 AM, 5:30 PM - 6:00 PM"
+
+                ],                        
+                "images": [
+                    "data/ooty/site/mudumalai-tiger-reserve.jpg",
+                    "data/ooty/site/mudumalai-tiger-reserve-1.jpg",
+                    "data/ooty/site/mudumalai-tiger-reserve-2.jpg",
+                    "data/ooty/site/mudumalai-tiger-reserve-3.jpg",
+                    "data/ooty/site/mudumalai-tiger-reserve-4.jpg"
+                ],
+                "fee": [
+                    {"description": "Elephant Camp - Adult", "value": "30"},
+                    {"description": "Elephant Camp - Children", "value": "20"},
+                    {"description": "Van Safari Per Person", "value": "340"},
+                    {"description": "Jeep Safari", "value": "5000"},
+                    {"description": "Parking Motorcycle", "value": "20"},
+                    {"description": "Parking Car, Van", "value": "50"},
+                    {"description": "Parking Bus", "value": "100"}
                 ]
             }
         ]
