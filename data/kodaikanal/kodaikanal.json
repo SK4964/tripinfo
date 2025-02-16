@@ -173,6 +173,109 @@
                     {"description": "Adult", "value": "10"},
                     {"description": "Children", "value": "10"}
                 ]
+            },
+            {
+                "title": "Mannavanur Lake",
+                "timing":"9:30 AM - 5:00 PM",
+                "address": "Mannavanur, Kodaikanal",
+                "locationUrl": "https://maps.app.goo.gl/35euyabi2ya2vbs27",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "Mannavanur Lake is a serene and picturesque spot located about 34 kilometers from Kodaikanal in Tamil Nadu, India. It's nestled amidst lush green meadows and majestic hills, making it a perfect destination for nature lovers.",
+                    "The lake is surrounded by eucalyptus and pine trees, and you can often spot various birds and even some wild animals in the area. The lake is surrounded by beautiful hills and meadows, offering stunning views. You can enjoy activities like picnicking, coracle rides, horse riding, and bird watching.",
+                    "The lake is located inside a sheep farm, so you might see flocks of sheep grazing around. The area is known for its vegetable cultivation, including carrots, cauliflower, cabbage, peas, potatoes, and more. It's an ideal place to relax and enjoy the tranquility of nature."
+                ],                        
+                "images": [
+                    "data/kodaikanal/site/mannavanur-lake.jpg",
+                    "data/kodaikanal/site/mannavanur-lake-1.jpg",
+                    "data/kodaikanal/site/mannavanur-lake-2.jpg",
+                    "data/kodaikanal/site/mannavanur-lake-3.jpg",
+                    "data/kodaikanal/site/mannavanur-lake-4.jpg"
+                ],
+                "fee": [
+                    {"description": "Adult", "value": "20"},
+                    {"description": "Children", "value": "20"}
+                ]
+            },
+            {
+                "title": "Berijam Lake",
+                "timing":"9:30 AM - 5:00 PM",
+                "address": "Old Site Of Fort Hamilton, Kodaikanal",
+                "locationUrl": "https://maps.app.goo.gl/YWcmeKuw4mh75LLT6",
+                "amenities": ["local_parking", "wc"],
+                "description": [
+                    "Berijam Lake is another beautiful spot near Kodaikanal in Tamil Nadu, India. It's located about 23 kilometers southwest of Kodaikanal and is known for its serene and picturesque setting. The lake is surrounded by lush greenery, including acacia and pine trees, making it a perfect spot for nature lovers.",
+                    "You can enjoy activities like bird watching, picnicking, and nature walks. Fishing is also allowed with permission from the Fisheries Department. The area around the lake is home to various wildlife, including bison, deer, snakes, elephants, and monkeys. Bird enthusiasts can spot species like crested serpent eagles, pariah kites, and migratory birds like the common rosefinch and blue chat.",
+                    "The lake is located at the old site of Fort Hamilton, and there's a 100-year-old brick building that's worth a visit. To visit Berijam Lake, you'll need a forest pass, which can be obtained from the District Forest Office in Kodaikanal. Only a limited number of visitors are allowed each day."
+                ],                        
+                "images": [
+                    "data/kodaikanal/site/berijam-lake.jpg",
+                    "data/kodaikanal/site/berijam-lake-1.jpg",
+                    "data/kodaikanal/site/berijam-lake-2.jpg",
+                    "data/kodaikanal/site/berijam-lake-3.jpg"                   
+                ],
+                "fee": [
+                ]
+            },
+            {
+                "title": "Dolphin Nose",
+                "timing":"6:00 AM - 5:00 PM",
+                "address": "Upper Shola Road, Kodaikanal",
+                "locationUrl": "https://maps.app.goo.gl/rHyRr2JpZzoDGwDMA",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "Dolphin's Nose in Kodaikanal is a stunning viewpoint located about 8 kilometers from the town, at an altitude of 6,600 feet. The name comes from a flat rock that juts out like a dolphin's nose, offering breathtaking views of the surrounding valleys and hills.",
+                    "You can enjoy panoramic views of the Pambar Valley, Periyakulam town, and Vaigai Lake. Reaching Dolphin's Nose involves a one-kilometer trek from Vattakanal, which is a great way to immerse yourself in nature.",
+                    "The spot is quite secluded and undisturbed, providing a serene and calming environment. The best time to visit is between October and March when the weather is pleasant."
+                ],                        
+                "images": [
+                    "data/kodaikanal/site/dolphin-nose.jpg",
+                    "data/kodaikanal/site/dolphin-nose-1.jpg",
+                    "data/kodaikanal/site/dolphin-nose-2.jpg",
+                    "data/kodaikanal/site/dolphin-nose-3.jpg"                   
+                ],
+                "fee": [
+                ]
+            },
+            {
+                "title": "Silent Valley View Point",
+                "timing":"9:00 AM - 5:00 PM",
+                "address": "Berijam Rd, Kodaikanal",
+                "locationUrl": "https://maps.app.goo.gl/PqqhutGBKX4STX5e7",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "Silent Valley View Point is a breathtaking spot located on Berijam Lake Road in Kodaikanal, Tamil Nadu. It offers mesmerizing views of the deep valleys and lush green meadows, often covered in a mystical mist.",
+                    "The view point offers panoramic views of the Palani hills and the Western Ghats, with lush green valleys in between. Early mornings and late afternoons are ideal times to visit, as the mist and clouds add to the enchanting atmosphere.",
+                    "It's a great spot for photography, picnicking, and simply enjoying the serene environment. The view point is well-connected by road, and you can reach it by taxi, bike, or on foot."
+                ],                        
+                "images": [
+                    "data/kodaikanal/site/silent-valley-view-point.jpg",
+                    "data/kodaikanal/site/silent-valley-view-point-1.jpg",
+                    "data/kodaikanal/site/silent-valley-view-point-2.jpg",
+                    "data/kodaikanal/site/silent-valley-view-point-3.jpg"                   
+                ],
+                "fee": [
+                ]
+            },
+            {
+                "title": "Green Valley View Point",
+                "timing":"9:00 AM - 5:00 PM",
+                "address": "Pillar Rocks Rd, Kodaikanal",
+                "locationUrl": "https://maps.app.goo.gl/PqqhutGBKX4STX5e7",
+                "amenities": ["local_parking", "local_dining", "shopping_bag", "wc"],
+                "description": [
+                    "Green Valley View Point, also known as Suicide Point, is a popular viewpoint in Kodaikanal, Tamil Nadu. It offers breathtaking views of the deep valleys and surrounding hills. The view point offers panoramic views of the plains, deep valleys, and hills. You can also see the Vaigai Dam if the weather is clear.",
+                    "The best time to visit is between 10:00 AM and 3:00 PM, as the mist and clouds can obstruct the view later in the day. The area is fenced with iron bars for safety, as the valley below is more than 5000 feet deep.",
+                    "You might encounter monkeys at the viewpoint, so be cautious with your belongings. There are several shops selling homemade chocolates, ornaments, and flowers on the way to the viewpoint."
+                ],                        
+                "images": [
+                    "data/kodaikanal/site/green-valley-view-point.jpg",
+                    "data/kodaikanal/site/green-valley-view-point-1.jpg",
+                    "data/kodaikanal/site/green-valley-view-point-2.jpg",
+                    "data/kodaikanal/site/green-valley-view-point-3.jpg"                   
+                ],
+                "fee": [
+                ]
             }
         ]
     },
